@@ -1,0 +1,529 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201606 will be lost/reset.
+# Last config file used to build this data file was /home/goodnk9o/tmp/awstats/awstats.5yearold.goodnetwork.world.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2023                
+POS_TIME 2710                
+POS_VISITOR 13069               
+POS_DAY 14255               
+POS_DOMAIN 3501                
+POS_LOGIN 3865                
+POS_ROBOT 4020                
+POS_WORMS 4418                
+POS_EMAILSENDER 4549                
+POS_EMAILRECEIVER 4692                
+POS_SESSION 14750               
+POS_SIDER 14957               
+POS_FILETYPES 4827                
+POS_DOWNLOADS 5153                
+POS_OS 5326                
+POS_BROWSER 5528                
+POS_SCREENSIZE 6015                
+POS_UNKNOWNREFERER 6089                
+POS_UNKNOWNREFERERBROWSER 6660                
+POS_ORIGIN 6971                
+POS_SEREFERRALS 7111                
+POS_PAGEREFS 7277                
+POS_SEARCHWORDS 7521                
+POS_KEYWORDS 7673                
+POS_MISC 2372                
+POS_ERRORS 7732                
+POS_CLUSTER 3721                
+POS_SIDER_404 7891                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160628052451 9754 2862183 18802538396698
+FirstTime 20160610080628
+LastTime 20160628052451
+LastUpdate 20160628054519 813 0 813 0 0
+TotalVisits 100                 
+TotalUnique 24                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 27                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 145 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 53 5 7 137515
+1 2 27 63990 7 22 597326
+2 4 4 162998 8 15 206316
+3 4 4 54 10 14 336297
+4 132 468 12119769 25 33 1442087
+5 367 746 18589752 24 29 204065
+6 371 1536 37566443 28 36 412481
+7 434 1724 33200912 52 101 1112519
+8 444 1231 26835520 64 193 2740423
+9 364 988 23295333 37 85 556345
+10 514 1669 38293145 27 36 607250
+11 86 282 3404617 14 17 578877
+12 10 10 6597 34 45 1180277
+13 1 1 0 6 19 1865722
+14 3 3 0 5 10 80639
+15 6 6 10258 10 44 1059782
+16 4 12 233381 11 14 164359
+17 11 37 2055030 13 19 521341
+18 3 3 0 9 14 369488
+19 11 11 163075 8 17 249345
+20 14 14 1 24 52 1552226
+21 11 47 991112 18 24 374252
+22 8 8 83979 15 42 433624
+23 6 6 54 19 28 740027
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+in 2761 8683 189697676
+us 20 74 3951328
+ca 17 17 1158475
+my 4 38 1218940
+fr 3 3 163021
+cn 2 2 162998
+ie 1 1 81624
+ru 1 9 233381
+nl 1 1 1
+mx 1 10 408629
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+googlebot 378 13408658 20160628035736 18
+googlebot\-image 20 530561 20160623154331 0
+bot[\s_+:,\.\;\/\\-] 12 199985 20160627055226 6
+php 11 317385 20160625083540 0
+no_user_agent 4 44526 20160617082618 0
+unknown 3 201 20160625152455 3
+spider 1 50121 20160624165521 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+eot 10 948409 0 0
+css 1446 20815221 0 0
+png 1053 17690326 0 0
+ttf 78 2262528 0 0
+woff2 2 121244 0 0
+woff 161 1997076 0 0
+php 1860 92521547 0 0
+html 699 32019879 0 0
+js 2818 17611065 0 0
+jpg 543 5221368 0 0
+Unknown 1 20 0 0
+svg 61 315176 0 0
+gif 106 5552214 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/wp-content/uploads/mk_templates/euporie/options.txt 1 0 22340
+/wp-content/uploads/mk_templates/hercle/options.txt 1 0 21660
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+linuxandroid 132 17
+winxp 16 8
+ios_iphone 2 2
+winnt 5280 1874
+linux 10 1
+win7 19 6
+macosx 3164 720
+win8 1 1
+win8.1 38 6
+Unknown 176 176
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 24
+opera12.17 1 1
+safari9.0.3 2836 676
+firefox3.6 4 4
+android 38 4
+chrome51.0.2704.103 5071 1831
+chrome51.0.2704.81 42 6
+chrome33.0.0.0 41 5
+msie11.0 56 11
+safari9.0 2 2
+firefox6.0.2 2 2
+firefox25.0 9 1
+mozilla 16 16
+netscape5.0 3 3
+msie7.0 1 1
+chrome17.0.1025.133 1 1
+chrome51.0.2704.84 72 12
+chrome50.0.2661.102 30 5
+safari9.1.1 237 29
+chrome46.0.2486.0 197 40
+chrome27.0.1453 20 2
+safari8.0.2 1 1
+msie9.0 1 1
+Unknown 151 151
+safari 6 6
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+WordPress/4.5.3;_http://5yearold.in 20160628044932
+Mozilla/5.0_(compatible;_Dataprovider/6.92;__https://www.dataprovider.com/) 20160613052056
+Mozilla/5.0_Moreover/5.1_(_http://www.moreover.com;_webmaster@moreover.com) 20160617064501
+WordPress.com;_https://jetpack.wordpress.com 20160622074658
+Softaculous 20160617082935
+Safari/11601.4.4_CFNetwork/760.2.6_Darwin/15.3.0_(x86_64) 20160617061027
+Jetpack_by_WordPress.com 20160622074656
+WordPress/4.5.2;_http://5yearold.in 20160621203759
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+WordPress/4.5.3;_http://5yearold.in 20160628044932
+Jetpack_by_WordPress.com 20160622074656
+WordPress/4.5.2;_http://5yearold.in 20160621203759
+WordPress.com;_https://jetpack.wordpress.com 20160622074658
+Softaculous 20160617082935
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 283 339
+From1 0 0
+From2 3 3
+From3 1 1
+From4 2524 8495
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 2 2
+yandex 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://103.53.42.51:2082/cpsess2997826221/frontend/paper_lantern/softaculous/index.live.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 8 149504
+302 95 263419
+500 34 1028490
+406 6 163266
+301 99 5653
+404 100 1358514
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 73
+/wp-content/themes/jupiter/custom.css 2 http://5yearold.in/
+/sitemap.xml 1 -
+/ 14 -
+/wp-content/plugins/js_composer/assets/js/js_composer_front.js 1 http://5yearold.in/
+/wp-content/themes/burst/js/jquery.mousewheel.min.js 1 http://5yearold.in/
+/wp-content/plugins/js_composer/assets/css/js_composer.min.css 1 http://5yearold.in/
+/wp-content/themes/burst/js/default_dynamic.php 1 http://5yearold.in/
+/wp-content/themes/burst/css/custom_css.php/ 1 http://5yearold.in/
+/wp-content/themes/burst/style.css 1 http://5yearold.in/
+/wp-content/uploads/mk_assets/components-production.min.js 3 http://5yearold.in/
+/wp-content/themes/burst/css/linea-icons/style.css/ 1 http://5yearold.in/
+/browserconfig.xml 2 -
+/wp-content/uploads/bfi_thumb/dummy-6-ms5tr8bcwnbcavd6k3pxvx76f9qv5qqkguf0lerc7c.png 1 -
+/wp-content/themes/burst/js/mkd-like.js 1 http://5yearold.in/
+/wp-content/themes/jupiter/assets/stylesheet/min/media.css 1 -
+/wp-content/themes/burst/js/default.min.js/ 1 http://5yearold.in/
+/wp-content/themes/burst/js/default.min.js 1 http://5yearold.in/
+/wp-content/plugins/LayerSlider/static/js/greensock.js 1 http://5yearold.in/
+/wp-content/themes/burst/js/jquery.carouFredSel-6.2.1.js/ 1 http://5yearold.in/
+/wp-content/themes/jupiter/style.css 1 -
+/wp-content/themes/burst/css/elegant-icons/style.min.css 1 http://5yearold.in/
+/wp-content/themes/burst/js/ScrollToPlugin.min.js 1 http://5yearold.in/
+/wp-content/plugins/LayerSlider/static/js/layerslider.transitions.js 1 http://5yearold.in/
+/apple-touch-icon-120x120.png 1 -
+/wp-content/themes/burst/js/blog.min.js/ 1 http://5yearold.in/
+/wp-content/themes/burst/css/vertical_responsive.min.css 1 http://5yearold.in/
+/apple-touch-icon-120x120-precomposed.png 1 -
+/wp-content/themes/burst/js/smoothPageScroll.js 2 http://5yearold.in/
+/wp-content/uploads/bfi_thumb/dummy-6-ms5tr8bgzzyzviwhpxg4bt5tn1fintq8exix0c8u5o.png 1 -
+/wp-login.php 1 -
+/wp-content/themes/burst/js/plugins.js 1 http://5yearold.in/
+/wp-content/themes/burst/css/font-awesome/css/font-awesome.min.css 1 http://5yearold.in/
+/wp-content/uploads/2016/06/Nidhi-Booklet-2.png 1 -
+/wp-content/themes/burst/js/plugins.js/ 1 http://5yearold.in/
+/wp-content/themes/burst/js/jquery.touchSwipe.min.js/ 1 http://5yearold.in/
+/apple-touch-icon.png 3 -
+/wp-content/themes/jobify/inc/setup/images/import-widgets.gif 1 http://5yearold.in/wp-admin/themes.php
+/_api/dynamicmodel 1 -
+/wp-content/themes/burst/js/jquery.carouFredSel-6.2.1.js 1 http://5yearold.in/
+/wp-content/themes/burst/css/blog.min.css/ 1 http://5yearold.in/
+/wp-content/themes/burst/js/mkd-like.js/ 1 http://5yearold.in/
+/wp-content/themes/jupiter/assets/js/plugins/wp-enqueue/min/smoothscroll.js 2 http://5yearold.in/
+/wp-content/themes/burst/js/blog.min.js 1 http://5yearold.in/
+/wp-content/themes/burst/css/dripicons/dripicons.css 1 http://5yearold.in/
+/wp-content/plugins/LayerSlider/static/css/layerslider.css 2 http://5yearold.in/
+/wp-admin/admin-ajax.php 1 -
+/wp-content/themes/burst/css/print.css 1 http://5yearold.in/
+/wp-content/themes/burst/css/stylesheet.min.css 1 http://5yearold.in/
+/wp-content/themes/burst/js/TweenLite.min.js 1 http://5yearold.in/
+/wp-content/themes/burst/css/responsive.min.css 1 http://5yearold.in/
+/wp-content/plugins/LayerSlider/static/js/layerslider.kreaturamedia.jquery.js 1 http://5yearold.in/
+/wp-content/themes/burst/css/vertical_responsive.min.css/ 1 http://5yearold.in/
+/wp-content/uploads/mk_assets/components-production.min.css 1 http://5yearold.in/
+/apple-touch-icon-precomposed.png 2 -
+/wp-content/themes/burst/css/custom_css.php 1 http://5yearold.in/
+/wp-content/uploads/mk_assets/theme-options-production.css 2 -
+/wp-content/themes/burst/js/jquery.mousewheel.min.js/ 1 http://5yearold.in/
+/wp-content/uploads/bfi_thumb/dummy-3-ms5tr8bgzzyzviwhpxg4bt5tn1fintq8exix0c8u5o.png 1 -
+/wp-content/themes/burst/css/style_dynamic_responsive.php 1 http://5yearold.in/
+/wp-content/themes/burst/js/ajax.min.js/ 1 http://5yearold.in/
+/wp-content/themes/burst/js/jquery.touchSwipe.min.js 1 http://5yearold.in/
+/wp-content/themes/burst/css/blog.min.css 1 http://5yearold.in/
+/wp-content/themes/jupiter/assets/stylesheet/min/theme-icons.css 2 http://5yearold.in/
+/wp-content/themes/burst/css/style_dynamic.php/ 1 http://5yearold.in/
+/wp-content/uploads/bfi_thumb/dummy-2-ms5tr8bgzzyzviwhpxg4bt5tn1fintq8exix0c8u5o.png 1 -
+/wp-content/themes/jupiter/assets/js/min/scripts.js 1 -
+/langs/ 1 -
+/wp-content/plugins/js_composer_theme/assets/css/js_composer.min.css 2 -
+/wp-content/themes/burst/css/linea-icons/style.css 1 http://5yearold.in/
+/wp-content/themes/burst/css/style_dynamic.php 1 http://5yearold.in/
+/wp-content/themes/burst/css/simple-line-icons/simple-line-icons.css/ 1 http://5yearold.in/
+/wp-content/plugins/js_composer_theme/assets/js/dist/js_composer_front.min.js 2 http://5yearold.in/
+/wp-content/themes/burst/js/jquery.fullPage.min.js/ 1 http://5yearold.in/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 27
+122.160.18.34 2598 8484 188684750 20160628052451 20160628042151 /wp-admin/admin-ajax.php
+103.53.42.51 149 149 11024 20160628044932 20160628035713 /wp-cron.php
+167.114.209.38 17 17 1158475 20160613052058
+120.59.17.103 8 8 585 20160611042036
+122.161.154.211 5 41 991059 20160622214349
+123.136.106.127 4 38 1218940 20160624070248
+66.102.6.188 4 12 511869 20160612063835
+70.39.246.37 3 3 174760 20160617064501
+66.249.88.201 3 11 767901 20160612060545
+91.121.184.126 3 3 163021 20160614191325
+66.249.88.191 2 6 151613 20160612060545
+192.0.118.113 2 2 1807 20160622074658
+107.169.10.207 2 2 83979 20160613223936
+213.254.241.4 1 1 81624 20160612110032
+66.249.82.164 1 5 193003 20160622053922
+2.92.140.163 1 9 233381 20160617164808
+107.170.107.176 1 1 77429 20160617065803
+66.102.6.128 1 7 578260 20160612063835
+180.76.15.163 1 1 81499 20160614020031
+189.203.232.11 1 10 408629 20160612060852
+120.59.27.39 1 1 10258 20160617154553
+46.252.205.134 1 1 1 20160614191320
+180.76.15.152 1 1 81499 20160614020031
+66.249.82.160 1 6 126436 20160622053922
+66.102.6.191 0 9 972543 
+66.249.88.196 0 1 9633 
+66.249.82.168 0 9 302095 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 19
+20160610 245 1179 32300768 6
+20160611 11 11 745 4
+20160612 12 57 3482072 6
+20160613 20 20 1242508 3
+20160614 8 8 326127 6
+20160615 1 1 54 1
+20160616 2 2 108 2
+20160617 354 1462 36123293 9
+20160618 2 2 0 2
+20160619 2 2 0 2
+20160620 1 1 0 1
+20160621 3 3 1 2
+20160622 812 2121 53572823 11
+20160623 397 1296 12265000 9
+20160624 627 1842 35752791 11
+20160625 13 38 63990 9
+20160626 12 12 0 7
+20160627 16 42 67300 6
+20160628 273 739 21878493 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 17
+5mn-15mn 3
+2mn-5mn 1
+30s-2mn 2
+15mn-30mn 5
+0s-30s 63
+30mn-1h 7
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 98
+/wp-admin/admin-ajax.php 1108 2122709 4 5
+/ 395 24397911 20 9
+/jm-ajax/get_listings/ 154 2134286 0 5
+/wp-cron.php 145 695 63 62
+/wp-admin/load-scripts.php 118 8647566 0 0
+/wp-content/themes/jobify/fonts/ionicons.ttf 70 1885080 1 0
+/wp-admin/themes.php 60 2757447 0 0
+/wp-admin/load-styles.php 51 3712772 0 0
+/wp-admin/post.php 49 28893004 1 0
+/wp-admin/admin.php 48 14276763 0 0
+/wp-admin/edit.php 37 3982294 0 0
+/wp-admin/customize.php 29 14602195 0 0
+/wp-content/plugins/jetpack/_inc/fonts/jetpack/jetpack.woff 28 3516 0 0
+/wp-admin/plugins.php 22 1570709 0 0
+/wp-content/themes/jupiter/assets/stylesheet/icons/awesome-icons/fontawesome-webfont.woff 18 261808 0 0
+/wp-content/themes/jupiter/assets/stylesheet/icons/icomoon/fonts-icomoon.woff 17 980832 0 0
+/wp-content/themes/jupiter/assets/stylesheet/icons/pe-line-icons/Pe-icon-line.woff 17 132960 0 0
+/wp-content/themes/jupiter/assets/stylesheet/icons/theme-icons/theme-icons.woff 17 133216 0 0
+/wp-login.php 16 46674 1 4
+/wp-content/themes/burst/css/style_dynamic.php 16 712360 0 0
+/wp-content/themes/burst/css/custom_css.php 15 1155 0 0
+/wp-content/themes/burst/css/style_dynamic_responsive.php 15 16314 0 0
+/wp-content/themes/burst/js/custom_js.php 15 1275 0 0
+/wp-content/themes/burst/js/default_dynamic.php 15 17936 0 0
+/signup/ 14 337957 0 0
+/wp-admin/post-new.php 2 893507 0 0
+/wp-admin/index.php 11 498597 0 0
+/wp-admin/users.php 2 97919 0 0
+//wp-admin/admin-ajax.php 2 2 1 2
+/apple-touch-icon-precomposed.png/ 3 270706 0 0
+/wp-content/themes/burst/css/font-awesome/fonts/fontawesome-webfont.woff 5 71508 0 0
+/wp-content/themes/jupiter/assets/stylesheet/icons/pe-line-icons/Pe-icon-line.eot 2 104416 0 1
+/wp-admin/async-upload.php 11 27899 0 0
+/feed/ 1 1600 0 1
+/wp-admin/admin-ajax.php/ 1 1 0 0
+/my-account/orders/ 1 37197 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 5 86020 0 0
+/wp-admin/tools.php 2 80904 0 0
+/find-a-job/ 12 259155 0 0
+/wp-admin/ 13 890134 0 0
+/robots.txt/ 2 162998 2 2
+/xmlrpc.php 1 207 1 0
+/wp-admin/includes/themes.php/ 1 81503 0 0
+/wp-content/plugins/so-widgets-bundle/icons/fontawesome/font/fontawesome-webfont.woff2 1 64464 0 0
+/wp-content/plugins/so-widgets-bundle/css/slider/fonts/slider.woff 1 1920 0 0
+/wp-content/plugins/so-widgets-bundle/widgets/features/css/fonts/feature-background.woff 1 1808 0 0
+/about-us/ 7 210240 0 0
+/wp-content/themes/jupiter/assets/stylesheet/icons/awesome-icons/fontawesome-webfont.eot 2 112012 1 0
+/wp-admin/widgets.php 9 2720449 0 0
+/wp-admin/nav-menus.php 9 2869515 0 0
+/wp-admin/about.php 3 143393 0 0
+/my-account-2/ 10 225537 0 0
+/wp-admin/upgrade.php 1 1 1 1
+/wp-includes/js/tinymce/wp-tinymce.php 5 842283 0 0
+/frequently-asked-questions/ 3 53576 0 0
+/shop-2/ 2 34289 0 0
+/wp-admin/import.php 2 85316 0 0
+/companies/ 8 473861 0 0
+/my-account/edit-address/ 1 74726 0 0
+/testimonials/ 2 39605 0 0
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 11 28352 0 0
+/wp-admin/upload.php 8 734471 0 0
+/wp-content/plugins/jetpack/_inc/fonts/automatticons/automatticons.woff 2 17888 0 0
+/about/ 7 162493 0 0
+/check_charset.php 1 32 0 0
+/wp-admin/options-link.php/ 1 81517 1 0
+/wp-includes/fonts/dashicons.eot 1 22449 0 0
+/shop/ 3 53451 0 0
+/wp-admin/theme-install.php 3 137118 0 0
+/wp-admin/theme-editor.php 1 42432 0 0
+/wp-content/themes/jupiter/assets/stylesheet/icons/icomoon/fonts-icomoon.eot 3 598236 2 3
+/wp-content/plugins/wp-job-manager/assets/font/job-manager.woff 14 18024 0 0
+/my-account/ 11 270881 0 0
+/wp-content/themes/jupiter/assets/stylesheet/icons/theme-icons/theme-icons.eot 2 111296 0 1
+/apple-touch-icon.png/ 3 270634 0 0
+/cart/ 9 327209 0 0
+/terms-and-conditions/ 2 38167 0 0
+/wp-admin/plugin-install.php 13 1232000 0 0
+/wp-content/themes/burst/css/font-awesome/fonts/fontawesome-webfont.woff2 1 56780 0 0
+/&ct=ga&cd%CAEYBCoTMzc3NDA0ODA3MjgxMzQ3NjEyNzIcOGIyMjYzNTM0OTlkYTkwYjpjby5pbjplbjpJTg&usg%AFQjCNEK3788bR-idpi1QDeMYxop5dTMAg/ 1 81624 1 1
+/wp-content/plugins/siteorigin-panels/css/icons/siteorigin-panels.woff 6 2780 0 0
+/wp-content/themes/burst/css/elegant-icons/fonts/ElegantIcons.woff 13 127328 0 0
+/wp-admin/options-permalink.php 2 91596 0 0
+/post-a-job/ 6 234007 0 0
+/wp-content/themes/burst/mkdinc/admin/skins/mikado/assets/css/elegant-icons/fonts/ElegantIcons.woff 5 63664 0 0
+/cart-2/ 4 135375 0 0
+/wp-content/themes/burst/css/ion-icons/fonts/ionicons.ttf 8 377448 0 0
+/my-account-2-2/ 3 60851 0 0
+/checkout-2/ 4 140552 0 0
+/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.woff 1 65452 0 0
+/wp-admin/update.php 6 231395 0 1
+/job/art-director-2/ 2 72065 0 0
+/manage-jobs/ 8 230106 0 0
+/home/ 3 104623 0 0
+/softtest_qcaxmsre/soft 1 20 0 0
+/wp-admin/options-general.php 6 402224 0 0
+/wp-admin/update-core.php 1 28419 0 0
+/my-account/edit-account/ 2 71042 0 0
+END_SIDER

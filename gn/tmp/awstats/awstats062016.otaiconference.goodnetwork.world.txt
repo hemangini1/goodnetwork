@@ -1,0 +1,408 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201606 will be lost/reset.
+# Last config file used to build this data file was /home/goodnk9o/tmp/awstats/awstats.otaiconference.goodnetwork.world.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2029                
+POS_TIME 2711                
+POS_VISITOR 9404                
+POS_DAY 11372               
+POS_DOMAIN 3465                
+POS_LOGIN 3852                
+POS_ROBOT 4007                
+POS_WORMS 4493                
+POS_EMAILSENDER 4624                
+POS_EMAILRECEIVER 4767                
+POS_SESSION 11593               
+POS_SIDER 11783               
+POS_FILETYPES 4902                
+POS_DOWNLOADS 5105                
+POS_OS 5153                
+POS_BROWSER 5347                
+POS_SCREENSIZE 5938                
+POS_UNKNOWNREFERER 6012                
+POS_UNKNOWNREFERERBROWSER 6198                
+POS_ORIGIN 6338                
+POS_SEREFERRALS 6478                
+POS_PAGEREFS 6633                
+POS_SEARCHWORDS 6937                
+POS_KEYWORDS 7089                
+POS_MISC 2375                
+POS_ERRORS 7148                
+POS_CLUSTER 3708                
+POS_SIDER_404 7279                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160606093358 2584 674670 16337991480895
+FirstTime 20160601074209
+LastTime 20160606093358
+LastUpdate 20160606100157 84 0 84 0 0
+TotalVisits 65                  
+TotalUnique 42                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 45                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 2 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 4 6 292591
+1 0 0 0 9 20 1168824
+2 8 64 8566589 8 42 2627367
+3 19 19 1198957 10 17 825695
+4 0 0 0 4 37 2685359
+5 8 58 211791 4 6 222766
+6 11 121 14958090 3 5 132370
+7 16 65 4846656 7 11 624792
+8 18 18 158289 1 4 256003
+9 203 409 30269875 28 62 5968924
+10 7 7 447064 2 3 116796
+11 41 284 19324846 25 29 4005437
+12 46 163 17626448 11 13 189486
+13 398 454 10026126 4 9 685910
+14 16 16 52358 6 40 2946085
+15 37 110 7858527 2 2 0
+16 0 0 0 20 30 1234551
+17 10 53 22928 5 11 440880
+18 8 119 17000143 7 20 1646885
+19 0 0 0 6 9 470459
+20 0 0 0 9 16 573048
+21 26 27 76048 3 9 277854
+22 2 4 75150 6 12 433216
+23 0 0 0 10 12 607629
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 11
+tr 665 665 2186472
+in 141 1069 103293196
+us 22 133 14249788
+ua 19 19 1198957
+ru 9 64 8493178
+eg 6 6 208589
+gt 5 28 2915070
+se 4 4 11780
+ca 1 1 102686
+fr 1 1 3362
+ro 1 1 56807
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+bot[\s_+:,\.\;\/\\-] 169 8495252 20160606055804 45
+googlebot 132 10364837 20160606020546 5
+googlebot\-image 8 25828 20160602215105 0
+bingpreview 8 462557 20160603031234 0
+slurp 6 125418 20160601121709 2
+spider 5 513396 20160605215219 0
+[\s_+:,\.\;\/\\-]bot 4 395548 20160604042533 0
+unknown 3 201 20160605190047 3
+no_user_agent 1 103463 20160603075928 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+php 741 3819127 0 0
+css 215 19972223 0 0
+png 533 83519183 0 0
+ttf 2 110968 0 0
+html 66 6284940 0 0
+js 369 13633832 0 0
+woff 65 5379612 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+linuxandroid 772 676
+winlong 71 11
+winxp 110 11
+winnt 142 20
+linux 275 42
+win7 537 72
+winunknown 19 19
+win8.1 47 8
+Unknown 18 15
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 27
+firefox28.0 6 6
+chrome40.0.2214.115 3 3
+firefox20.0 212 29
+chrome34.0.1847.137 1 1
+android 730 671
+chrome28.0.1500.94 42 5
+chrome39.0.2171.95 57 7
+firefox29.0 1 1
+opera26.0.1656.60 2 2
+firefox34.0 1 1
+firefox46.0 108 9
+chrome51.0.2704.79 65 9
+chrome51.0.2704.63 62 8
+firefox45.0 1 1
+chrome43.0.2357.130 6 6
+msie11.0 1 1
+chrome47.0.2526.106 71 11
+mozilla 3 0
+chrome37.0.2062.120 1 1
+chrome50.0.2661.102 457 52
+firefox41.0 19 19
+chrome10.0.648.204 1 1
+chrome21.0.1228.0 57 2
+msie9.0 4 4
+chrome49.0.2623.112 64 8
+firefox27.0 1 1
+Unknown 15 15
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+WordPress/4.5.2;_http://otaiconference.com 20160606093304
+Mozilla/4.0_(compatible;) 20160604212738
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+WordPress/4.5.2;_http://otaiconference.com 20160606093304
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 81 95
+From1 0 0
+From2 1 1
+From3 39 110
+From4 753 1785
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+yandex 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 5
+http://www.otai.org/announcement 22 22
+http://www.otai.org 9 9
+http://otaiconference.com 6 77
+http://hundejo.com 1 1
+http://otaiconference.com/contact/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+302 4 0
+206 9 5880879
+500 20 0
+404 42 2065548
+301 12 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 39
+/ 2 -
+/admin.php 1 -
+/wp-content/plugins/wp-homepage-slideshow/functions.php 1 -
+/registration 1 -
+/admin/login.php 1 -
+/wp-content/themes/NativeChurch/download/download.php 1 -
+/wp-content/themes/MichaelCanthony/download.php 1 -
+/wp-content/plugins/user-avatar/readme.txt 1 -
+/wp-admin/admin-ajax.php 1 -
+/wp-content/plugins/db-backup/download.php 1 -
+/wp-content/themes/TheLoft/download.php 1 -
+/wp-content/plugins/wp-property/action_hooks.php 1 -
+/wp-content/plugins/tinymce-thumbnail-gallery/php/download-image.php 1 -
+/wp-content/force-download.php 1 -
+/wp-content/themes/linenity/functions/download.php 1 -
+/wp-content/plugins/custom-content-type-manager/index.html 1 -
+/wp-content/plugins/contact-form-7/license.txt 1 -
+/wp-content/plugins/nmedia-user-file-uploader/readme.txt 1 -
+/user/ 1 -
+/wp-content/themes/authentic/includes/download.php 1 -
+/wp-content/plugins/plugin-newsletter/preview.php 1 -
+/wp-content/plugins/dukapress/lib/dp_image.php 1 -
+/wp-content/themes/SMWF/inc/download.php 1 -
+/wp-content/plugins/wp-filemanager/incl/libfile.php 1 -
+/wp-content/themes/FR0_theme/down.php 1 -
+/wp-content/plugins/category-grid-view-gallery/cat_grid.php 1 -
+/wp-content/plugins/filedownload/download.php/ 1 -
+/wp-content/plugins/wpmarketplace/readme.txt 1 -
+/wp-content/plugins/the-viddler-wordpress-plugin/css/viddler-wordpress.css 1 -
+/http:/otaiconference.com 1 -
+/bitrix/admin/ 1 -
+/wp-content/themes/acento/includes/view-pdf.php 1 -
+/comments/wp-login.php 2 http://otaiconference.com/comments/wp-login.php
+/wp-content/plugins/google-mp3-audio-player/direct_download.php 1 -
+/wp-content/plugins/pica-photo-gallery/picadownload.php 1 -
+/wp-content/plugins/wp-yasslideshow/css/data_tables.css 1 -
+/wp-content/themes/tess/download.php 1 -
+/wp-content/themes/epic/includes/download.php 1 -
+/past-events 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 45
+188.3.95.160 229 229 751418 20160603131303
+24.133.25.230 161 161 529331 20160602091700
+94.121.23.106 159 159 522925 20160601131456
+78.160.99.180 69 69 228144 20160605151506
+14.139.125.150 29 212 10449552 20160603115202
+178.137.93.24 19 19 1198957 20160604030809
+122.160.18.34 17 131 5134423 20160606064619
+78.175.48.15 16 16 53120 20160604081906
+78.161.24.132 16 16 52358 20160602144658
+103.53.42.51 15 15 0 20160606093304 20160606093304 /wp-cron.php
+14.139.64.12 11 71 8772608 20160602113706
+59.91.80.110 9 65 8748838 20160604131743
+122.169.45.30 9 70 8670921 20160602122650
+120.59.147.128 8 64 8546064 20160604061210
+95.13.166.195 8 8 26248 20160601074850
+14.195.234.8 8 64 8594677 20160606093358 20160606093303 /wp-content/themes/jupiter/captcha/captcha.php
+14.98.40.236 8 62 8286340 20160605090651
+85.96.132.92 7 7 22928 20160603173438
+117.194.231.87 6 62 8488077 20160603025557
+223.30.216.69 6 62 8488318 20160601122323
+8.37.233.99 6 64 8638491 20160604094653
+182.58.85.167 6 62 8954029 20160602180908
+193.227.34.78 6 6 208589 20160604095526
+181.174.106.146 5 28 2915070 20160601153641
+116.73.144.81 5 42 3682639 20160601095457
+192.198.80.227 4 4 300583 20160604221247
+188.32.244.196 2 57 8046114 20160604180836
+45.32.130.173 3 3 213342 20160601120806
+112.133.209.22 1 26 5137670 20160602060408
+107.191.102.245 1 1 102669 20160601153512
+178.252.203.160 2 2 107802 20160604101915
+1.39.98.65 0 1 224177 
+161.69.163.20 1 1 102686 20160603074645
+46.161.9.8 1 1 102686 20160602094747
+216.81.71.96 1 1 102686 20160604112704
+173.208.58.138 5 55 4686662 20160601153459
+117.211.11.24 0 14 1114863 
+198.50.200.139 1 1 102686 20160602104840
+188.213.161.17 1 1 56807 20160603060036
+116.72.104.105 3 46 0 20160604170927
+176.31.39.23 1 1 3362 20160603025523
+216.163.188.237 1 1 102669 20160601122342
+188.233.136.154 4 4 236576 20160604103715
+162.128.69.140 0 3 0 
+130.185.155.82 4 4 11780 20160604153447
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 6
+20160601 228 443 25639481 14
+20160602 240 507 33722046 13
+20160603 277 517 19952908 10
+20160604 85 355 36345699 20
+20160605 34 88 8362388 5
+20160606 10 81 8697363 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 3
+0s-30s 52
+2mn-5mn 4
+15mn-30mn 1
+30s-2mn 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 19
+/wp-login.php 669 2198252 14 14
+/ 51 5237304 25 8
+/xmlrpc.php 29 1544947 3 4
+/wp-content/themes/jupiter/captcha/captcha.php 26 75915 0 12
+/wp-content/themes/jupiter/assets/stylesheet/icons/theme-icons/theme-icons.woff 17 499560 1 1
+/wp-content/themes/jupiter/assets/stylesheet/icons/icomoon/fonts-icomoon.woff 16 3432912 1 0
+/wp-content/themes/jupiter/assets/stylesheet/icons/awesome-icons/fontawesome-webfont.woff 16 981780 0 0
+/wp-content/themes/jupiter/assets/stylesheet/icons/pe-line-icons/Pe-icon-line.woff 16 465360 0 1
+/wp-cron.php 15 0 14 13
+/about/ 5 416117 0 0
+/2014/08/22/semper-bacilisis/ 4 300583 4 4
+/contact/ 2 110656 0 1
+/wp-content/themes/jupiter/assets/stylesheet/icons/theme-icons/theme-icons.ttf 2 110968 0 1
+/portfolio-posts/mustachio-clothing-tag/ 1 56807 1 1
+/full-width-page/ 1 56597 0 1
+/author/admin/ 1 103514 1 0
+/wp-admin/admin-ajax.php 1 11 0 1
+/comments/feed/ 1 3362 1 1
+/wp-content/themes/jupiter/captcha/captcha-check.php 1 2 0 0
+END_SIDER

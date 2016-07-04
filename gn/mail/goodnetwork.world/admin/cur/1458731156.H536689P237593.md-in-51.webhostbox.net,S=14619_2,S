@@ -1,0 +1,311 @@
+Return-path: <bounces+1589727-f862-admin=goodnetwork.world@sendgrid.net>
+Envelope-to: admin@goodnetwork.world
+Delivery-date: Wed, 23 Mar 2016 11:05:56 +0000
+Received: from o1678911x58.outbound-mail.sendgrid.net ([167.89.11.58]:22914)
+	by md-in-51.webhostbox.net with esmtps (TLSv1.2:DHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.86_1)
+	(envelope-from <bounces+1589727-f862-admin=goodnetwork.world@sendgrid.net>)
+	id 1aigbq-000zdu-K9
+	for admin@goodnetwork.world; Wed, 23 Mar 2016 11:05:56 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.me; 
+	h=subject:from:reply-to:to:mime-version:content-type; s=smtpapi; 
+	bh=Uwa9006o8nk0ZrV36+txOZjD1I8=; b=kPI76urxdlc6Gy7xEx8ajOXg/o56+
+	Pojofg3bhLILc8ATY1zPRe3EdiVECgj2SL0K4VLUfxp9jlqhZBi8jRawTnC8bJOx
+	duFODsgoBTX8FCzI+MeRHTogJbAY1fJ6t51ROZM2n5SDlhbpbT3qnp/x64UF3kyB
+	EeMQLSP48JrG7Y=
+Received: by filter0015p1las1.sendgrid.net with SMTP id filter0015p1las1.18406.56F277FB59
+        2016-03-23 11:03:23.538208259 +0000 UTC
+Received: from wp.freemius.com (ec2-54-148-200-29.us-west-2.compute.amazonaws.com [54.148.200.29])
+	by ismtpd0003p1las1.sendgrid.net (SG) with ESMTP id BGXPKBK7SiqWbulttbEFaQ
+	for <admin@goodnetwork.world>; Wed, 23 Mar 2016 11:03:23.423 +0000 (UTC)
+Message-ID: <09087a61385a1e3aaf8d4bccd6bcd99c@wp.freemius.com>
+Date: Wed, 23 Mar 2016 11:05:17 +0000
+Subject: Confirm your Email
+From: rtMedia <support@rtcamp.com>
+Reply-To: rtMedia <support@rtcamp.com>
+To: Admin <admin@goodnetwork.world>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1458731117_546a9324260f4f7be6eb1ac89ad3223b_=_"
+X-SG-EID: 6GpI/XAYt3npvpELN5QzdOSIMx6X8LCGXIta5m7M3V7EGVkjQ4fZqSKi6WbRGria0QgoLLM/WKDyvH
+ ER5L+G13+uMN5Jdbo8lcCrsRpt6LmG9LBabZr1uf3HEi2j9sJuj5zir3rE1KFzSXrGgruUx+opwFeS
+ 2TU5MMK5WOunDvSaHLsTfuJIRkAtp8H8/oBcZ00pUWNNrLxFMoCLLAz5jw==
+X-SG-ID: IEcTUc7oZSEDNB7vAwgTMQKy2/eMJXlIEyG9QH5wT9o=
+X-Authenticated_sender: 
+X-Spam-Status: No, score=1.1
+X-Spam-Score: 11
+X-Spam-Bar: +
+X-Ham-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, HEADER_FROM_DIFFERENT_DOMAINS=0.001, HTML_FONT_LOW_CONTRAST=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001, RCVD_IN_MSPIKE_H2=-0.001, T_RP_MATCHES_RCVD=-0.01, URIBL_GREY=1.084, CMAE Analysis: v=2.1 cv=WOvTJCYR c=1 sm=0 tr=0 a=55T9agwWOj/jB3lTg86plg==:17 a=LQ/8eCYbzeylciH/FxapM2z0+pM=:19 a=7OsogOcEt9IA:10 a=1v-_rbIGUTkebKtlSnoA:9 a=pwxwZa86BIaoT5kw:21 a=ASid9piAevZo9pIO:21 a=QEXdDO2ut3YA:10 a=Ncnr8EKB_9-5TCWvWvsA:9 a=mr7UayG8oM6LZRdLZkxIgYpTFvM=:19 a=14qDluTIpXjiOI0Z:21 a=qFcJeV7VMMxCzURE:21 a=bo7k7Mof-vxoUoCR:21 a=_W_S_7VecoQA:10 a=frz4AuCg-hUA:10 a=p403mkujtbAA:10
+ 
+ *  0.0 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level mail
+ *      domains are different
+ * -0.0 T_RP_MATCHES_RCVD Envelope sender domain matches handover relay
+ *      domain
+ * -0.0 RCVD_IN_DNSWL_NONE RBL: Sender listed at http://www.dnswl.org/, no
+ *      trust
+ *      [167.89.11.58 listed in list.dnswl.org]
+ * -0.0 RCVD_IN_MSPIKE_H2 RBL: Average reputation (+2)
+ *      [167.89.11.58 listed in wl.mailspike.net]
+ *  1.1 URIBL_GREY Contains an URL listed in the URIBL greylist
+ *      [URIs: sendgrid.net]
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or identical to
+ *       background
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *      valid
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+--_=_swift_v4_1458731117_546a9324260f4f7be6eb1ac89ad3223b_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Welcome to rtMedia for WordPress, BuddyPress and bbPress, Admin!=20
+=20
+Yo,
+
+Almost there! Thanks for activating *rtMedia for WordPress, BuddyPress and =
+bbPress*. We are super-excited to have you on board. Before you get started=
+, please verify your email address below (promise not to send you any spam):
+
+Verify your email:
+https://api.freemius.com/v1/plugins/122/users/52288/verify.json?authorizati=
+on=3DFSA+122%3A8Y2H%2BFp4onHbE4PyQXjijZ%2BbzI3m8%2BqCAXF6MvnHpv9VQpQhRcwtrf=
+SwOxRpDjq%2FVI%2B6o%2B%2BbKS%2FxWDsz5uQ3Mvr5cYbUkEfKzDTyuZKGgjC5web5h8jS7zs=
+6bUrVb1DGu2V6T9J8l%2BmcDskRZ5ADmXUzqUhg8WiVIbu7FL9gLyefpX5fYH2iDaxRTWY7HwuE=
+aIhRjBr5M4vySVTSo%2FblHADqKg%2FkDnX2myRTQwg349ytTIj1Yy5IeBJSFMLYjZrDZtpV8r4=
+VGDcjd%2FxH7Vmbvg%3D%3D&email=3Dadmin%40goodnetwork.world&after_email_confi=
+rm_url=3Dhttp%3A%2F%2Fgoodnetwork.world%2Fwp-admin%2Fadmin.php%3Ffs_action%=
+3Dsync_user%26page%3Drtmedia-settings-account%26_wpnonce%3D1c7b534b23&metho=
+d=3Dput
+=20
+
+---
+
+=20
+The rtMedia for WordPress, BuddyPress and bbPress Team
+
+
+Sent by Freemius on behalf of rtMedia for WordPress, BuddyPress and bbPress
+Powered  with &#10084; by Freemius, Inc.
+
+213 Taaffe Pl &nbsp;=E2=80=A2&nbsp; Brooklyn, NY  &nbsp;=E2=80=A2&nbsp; 112=
+05
+
+--_=_swift_v4_1458731117_546a9324260f4f7be6eb1ac89ad3223b_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+" />
+    <title>Confirm your Email</title>
+    <style type=3D"text/css">
+        .ExternalClass {width:100%;}=20
+        .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalCla=
+ss font, .ExternalClass td, .ExternalClass div {
+            line-height: 100%;
+        }=20
+=20=20=20=20=20=20=20=20=20
+        body {-webkit-text-size-adjust:none; -ms-text-size-adjust:none;}=20
+        body {margin:0; padding:0;}=20
+        table td {border-collapse:collapse;}=20=20=20=20
+=20
+        p {margin:0; padding:0; margin-bottom:0;}=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20
+        h1, h2, h3, h4, h5, h6 {
+           color: black;=20
+           line-height: 100%;=20
+        }=20=20
+
+        a, a:link {
+           color:#2A5DB0;
+           text-decoration: underline;
+        }=20=20=20=20=20=20=20
+
+        body, #body_style
+        {
+           color: #808080;
+           font-family: Roboto,HelveticaNeue,sans-serif;
+           font-size: 15px;
+        }
+
+        #body_style
+        {
+            background: #ffffff;
+        }
+=20=20=20=20=20=20=20=20=20=20=20=20
+        span.yshortcuts { color:#808080; background-color:none; border:none=
+;}
+        span.yshortcuts:hover,
+        span.yshortcuts:active,
+        span.yshortcuts:focus {color:#808080; background-color:none; border=
+:none;}
+=20=20=20=20=20
+        a:visited { color: #29abe2; text-decoration: none}=20
+        a:focus   { color: #29abe2; text-decoration: underline}=20=20
+        a:hover   { color: #29abe2; text-decoration: underline}=20=20
+
+        @media only screen and (max-device-width: 480px) {
+
+        }=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20
+        @media only screen and (min-device-width: 768px) and (max-device-wi=
+dth: 1024px) {=20=20=20=20=20=20=20=20=20=20
+
+        }=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+    </style>=20=20=20
+</head>
+<body style=3D"color:#808080;font-family:Roboto,HelveticaNeue,sans-serif; f=
+ont-size:15px" alink=3D"#29abe2" link=3D"#29abe2" text=3D"#808080" yahoo=3D=
+"fix">
+    <table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+        <tr>
+            <td>
+                <div id=3D"body_style" bgcolor=3D"#f1f1f1" style=3D"backgro=
+und: #f1f1f1; padding-top: 15px; padding-bottom: 35px; ">
+                                            <div style=3D"max-width: 600px;=
+ margin: 0 auto">
+                            <table cellspacing=3D"0" cellpadding=3D"0" alig=
+n=3D"center" width=3D"100%">
+    <tr>
+        <td>
+            <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" align=3D"center">
+                <tr>
+                    <td>
+                        <table width=3D"100%" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0">
+                            <tr>
+                                <td align=3D"center" valign=3D"top" height=
+=3D"30">
+                                </td>
+                            </tr>
+                        </table>
+                        <table width=3D"100%" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" bgcolor=3D"#ffffff">
+                            <tr><td height=3D"25" style=3D"background: #222=
+222; padding: 15px 20px; font-size:1px; border-collapse:collapse; margin:0;=
+"><p style=3D"margin-top: 0; margin-bottom: 0;"><span style=3D"font-family:=
+ Roboto,HelveticaNeue,sans-serif; font-weight: bold; font-size: 20px; word-=
+spacing: 2px; line-height: 2em; color: #ffffff; text-transform: uppercase">=
+Welcome to rtMedia for WordPress, BuddyPress and bbPress, Admin!</span></p>=
+</td></tr>
+                            <td height=3D"25" style=3D"background: #29abe1;=
+ padding: 0; font-size:1px; border-collapse:collapse; margin:0;height: 5px;=
+"></td>
+                            <tr>
+                                <td valign=3D"top" style=3D"font-family:Rob=
+oto,HelveticaNeue,sans-serif; font-size: 15px; color: #808080; line-height:=
+ 1.5em; padding: 2rem; margin-bottom: 1rem;">
+                                    <div>
+                                        <!-- Body -->
+                                        <p dir=3D"ltr" style=3D" margin-top=
+: 0; margin-bottom: 0; margin-left: 0; margin-right: 0">Hey,</p><br><p dir=
+=3D"ltr" style=3D" margin-top: 0; margin-bottom: 0; margin-left: 0; margin-=
+right: 0">Almost there! Thanks for activating <b>rtMedia for WordPress, Bud=
+dyPress and bbPress</b>. We are super-excited to have you on board. Before =
+you get started, please verify your email address below (promise not to sen=
+d you any spam):</p><br>            <!-- CTA -->
+            <table cellpadding=3D"0" cellspacing=3D"0">
+                <tr>
+                    <td align=3D"center" bgcolor=3D"#71ae00"
+                        style=3D"background: #71ae00;border-radius: 3px; -w=
+ebkit-border-radius: 3px; -moz-border-radius: 3px; color: #fff; font-weight=
+: bold; padding: 10px; text-decoration: none; font-size: 16px; font-family:=
+ Helvetica, Arial, sans-serif; display: block;">
+                        <a href=3D"https://api.freemius.com/v1/plugins/122/=
+users/52288/verify.json?authorization=3DFSA+122%3A8Y2H%2BFp4onHbE4PyQXjijZ%=
+2BbzI3m8%2BqCAXF6MvnHpv9VQpQhRcwtrfSwOxRpDjq%2FVI%2B6o%2B%2BbKS%2FxWDsz5uQ3=
+Mvr5cYbUkEfKzDTyuZKGgjC5web5h8jS7zs6bUrVb1DGu2V6T9J8l%2BmcDskRZ5ADmXUzqUhg8=
+WiVIbu7FL9gLyefpX5fYH2iDaxRTWY7HwuEaIhRjBr5M4vySVTSo%2FblHADqKg%2FkDnX2myRT=
+Qwg349ytTIj1Yy5IeBJSFMLYjZrDZtpV8r4VGDcjd%2FxH7Vmbvg%3D%3D&email=3Dadmin%40=
+goodnetwork.world&after_email_confirm_url=3Dhttp%3A%2F%2Fgoodnetwork.world%=
+2Fwp-admin%2Fadmin.php%3Ffs_action%3Dsync_user%26page%3Drtmedia-settings-ac=
+count%26_wpnonce%3D1c7b534b23&method=3Dput" style=3D"padding: 10px 15px; co=
+lor: #fff; text-decoration: none;">
+                            <nobr>Verify your email</nobr>
+                        </a></td>
+                </tr>
+            </table>
+                                            </div>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    </table>                        </div>
+                                    </div>
+            </td>
+        </tr>
+        <tr>
+            <td style=3D"height: 5px; background-repeat: repeat-x; backgrou=
+nd-image: url('http://img.freemius.com/email/system/layout/footer-border.pn=
+g'); background-color: #f1f1f1"></td>
+        </tr>
+        <tr>
+            <td align=3D"center">
+                <!-- FOOTER -->
+                <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" style=3D"font-family:Roboto,HelveticaNeue,sans-serif; font-size=
+:12px; color:#000000; text-align:center;">
+                                        <tr>
+                        <td>
+                            <p style=3D"font-family:Roboto,HelveticaNeue,sa=
+ns-serif; font-size: 12px; color: #bbb; line-height: 1.5em; padding: 20px;">
+                                                                <span>Sent =
+by Freemius on behalf of rtMedia for WordPress, BuddyPress and bbPress</spa=
+n><br> Powered                                with <span style=3D"color: #D=
+3135A">&#10084;</span> by <a style=3D"color: #bbb; font-weight: bold; text-=
+decoration: none;" href=3D"https://freemius.com/" target=3D"_blank">Freemiu=
+s, Inc.</a> &nbsp;=E2=80=A2&nbsp; <a style=3D"color: #29abe2; font-weight: =
+bold; text-decoration: none;" href=3D"https://freemius.com/wordpress/insigh=
+ts/" target=3D"_blank">Analytics</a> &amp;  <a style=3D"color: #71AE00; fon=
+t-weight: bold; text-decoration: none;" href=3D"https://freemius.com/wordpr=
+ess/" target=3D"_blank">Monetization</a> for Plugin Developers
+                                <br>
+                                213 Taaffe Pl &nbsp;=E2=80=A2&nbsp; Brookly=
+n, NY  &nbsp;=E2=80=A2&nbsp; 11205
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+                <!-- /FOOTER -->
+            </td>
+        </tr>
+<!--        --><!--            <tr>-->
+<!--                <td>-->
+<!--                    <p style=3D"font-size: 10px; color:#6e6e6e;">-->
+<!--                        You are receiving <a href=3D"https://rating-wid=
+get.com" style=3D"--><!--">RatingWidget</a> Notifications emails for --><!-=
+-.  <a href=3D"--><!--" style=3D"--><!--">Unsubscribe</a><br>-->
+<!--                        <a href=3D"https://rating-widget.com" style=3D"=
+--><!--">RatingWidget</a> help publishers to collect instant feedback from =
+their visitors.-->
+<!--                    </p>-->
+<!--                </td>-->
+<!--            </tr>-->
+<!--        -->    </table>
+
+<img src=3D"https://u1589727.ct.sendgrid.net/wf/open?upn=3DuoQOw53Jnd2odJf4=
+vBwXdbAkRc7TXVJbXu4ZJpGyl3N8V0wX4BRgcR0GKA1IyIkDp1dhY-2FA8vcg7vsrJyD8OFwzad=
+lLy7s-2BTz1-2BG77Ynw0QCBDRONnifexWV4OFVHoPatg97JcAUdKOTD-2FRptD6-2BkMQujQmN=
+iTDbL0a5ounStmxWskb53HzxDsIcwVIoW-2F5ckMMVfhWGXi8931pbrBeyINYOr9R3LaukR-2FA=
+r9ZfgEx3zX-2BZlgiKJBsKxzGbW2qS5QkEYoTLttIFHI-2BCWFxcAhw-3D-3D" alt=3D"" wid=
+th=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !important;width:1px=
+ !important;border-width:0 !important;margin-top:0 !important;margin-bottom=
+:0 !important;margin-right:0 !important;margin-left:0 !important;padding-to=
+p:0 !important;padding-bottom:0 !important;padding-right:0 !important;paddi=
+ng-left:0 !important;"/>
+</body>
+</html>
+
+
+--_=_swift_v4_1458731117_546a9324260f4f7be6eb1ac89ad3223b_=_--
+

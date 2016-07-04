@@ -1,0 +1,37 @@
+.searchform--header {
+	margin: 2em 0;
+
+	@include bp(lg) {
+		display: none;
+	}
+}
+
+input[type=text].searchform--header__input {
+	color: #fff;
+	border: 0;
+	border-radius: 60px;
+	background: rgba(0, 0, 0, .10);
+}
+
+input[type=text].searchform--header__input::-webkit-input-placeholder {
+    color: rgba(255, 255, 255, .70);
+}
+
+input[type=text].searchform--header__input::-moz-placeholder { 
+    color: rgba(255, 255, 255, .70);
+	opacity: 1;
+}
+
+input[type=text].searchform--header__input:-ms-input-placeholder {
+	color: rgba(255, 255, 255, .70);
+}
+
+input[type=text].searchform--header__input:placeholder-shown {
+    color: rgba(255, 255, 255, .70);
+}
+
+button.searchform--header__submit {
+	&:before {
+		color: #fff;
+	}
+}

@@ -1,0 +1,192 @@
+Return-path: <no_reply_support@trust-provider.com>
+Envelope-to: admin@goodnetwork.world
+Delivery-date: Tue, 12 Apr 2016 07:28:51 +0000
+Received: from mail1.comodogroup.com ([91.199.212.133]:41550 helo=mcmail1.mcr.colo.comodo.net)
+	by md-in-51.webhostbox.net with esmtps (TLSv1.2:DHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.86_1)
+	(envelope-from <no_reply_support@trust-provider.com>)
+	id 1apskj-002ARj-Um
+	for admin@goodnetwork.world; Tue, 12 Apr 2016 07:28:51 +0000
+Received: (qmail 24954 invoked by uid 1008); 12 Apr 2016 07:28:07 -0000
+Received: from oracleone_mcr.mcr.colo.comodo.net (HELO mail.colo.comodo.net) (192.168.128.21)
+    by mcmail1.mcr.colo.comodo.net (qpsmtpd/0.84) with SMTP; Tue, 12 Apr 2016 08:28:07 +0100
+Subject: ORDER #21012073 - Domain Control Validation for goodnetwork.world
+From: "Comodo Security Services" <noreply_support@comodo.com>
+To: "admin@goodnetwork.world" <admin@goodnetwork.world>
+Date: Tue, 12 Apr 2016 07:28:06 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="(AlternativeBoundary)"
+Message-ID: <q17wylk40B8YSL8/KQZybg@mcmail1.mcr.colo.comodo.net>
+X-Authenticated_sender: 
+X-Spam-Status: No, score=-1.2
+X-Spam-Score: -11
+X-Spam-Bar: -
+X-Ham-Report: HEADER_FROM_DIFFERENT_DOMAINS=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_MED=-2.3, RCVD_IN_MSPIKE_H3=-0.01, RCVD_IN_MSPIKE_WL=-0.01, TRACKER_ID=1.102, CMAE Analysis: v=2.1 cv=WOvTJCYR c=1 sm=0 tr=0 a=YHjmRaeFOw4g3yBfF7erLw==:17 a=kziv93cY1bsA:10 a=hfTiZ8VwGXL7uml6QSMA:9 a=cIDjsjoE-C4t2hKQ:21 a=Vac3Po5UPjRhSiBo:21 a=QEXdDO2ut3YA:10 a=XOhof4G-0H8A:10 a=XCSUJlpxIikA:10 a=HtH9k9cMIPwA:10 a=UtelWXj5Uq0A:10 a=FL1UUjAWuqI8i5gluJwA:9 a=z7t4rR5m2iqUrQNF:21 a=JPJrzGBROvV8vMmP:21 a=gssh1xc8Vrz9buKJ:21 a=_W_S_7VecoQA:10 a=frz4AuCg-hUA:10 a=jyKjjaHlwlwA:10 a=1wMNm3BINzgA:10 a=6kodvR8wCXkA:10 a=76Z5sPaD-EcA:10
+ 
+ *  0.0 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level mail
+ *      domains are different
+ * -0.0 RCVD_IN_MSPIKE_H3 RBL: Good reputation (+3)
+ *      [91.199.212.133 listed in wl.mailspike.net]
+ * -2.3 RCVD_IN_DNSWL_MED RBL: Sender listed at http://www.dnswl.org/,
+ *      medium trust
+ *      [91.199.212.133 listed in list.dnswl.org]
+ *  1.1 TRACKER_ID BODY: Incorporates a tracking ID number
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ * -0.0 RCVD_IN_MSPIKE_WL Mailspike good senders
+X-Spam-Flag: NO
+
+--(AlternativeBoundary)
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Dear admin@goodnetwork.world,
+
+We have received a request to issue an SSL certificate for:
+Domain: goodnetwork.world
+Subject: 
+             Good Netowork
+
+
+
+To permit the issuance of the certificate please browse to
+https://secure.comodo.com/products/EnterDCVCode?orderNumber=21012073
+and enter the following "validation code":
+
+        Jwjk8hvUE7wsOyWzE4RDwM30YgQXrLrF
+
+
+
+**************PLEASE NOTE CHOOSING THE OPTION BELOW WILL REJECT THE CERTIFICATE**************
+If neither you nor a trusted colleague made this request for a certificate then
+you can reject it by browsing to:
+
+https://secure.comodo.com/products/RejectDCVCode?orderNumber=21012073&dcvCode=Jwjk8hvUE7wsOyWzE4RDwM30YgQXrLrF
+
+
+Kind Regards,
+
+
+Comodo Security Services on behalf of directi
+
+Support Telephone: +1.888.266.6361 / +1.703.581.6361
+Support Website: http://support.comodo.com
+Validation Docs Fax: US and Canada +1.866.831.5837 / Worldwide +1.801.303.9291
+We now operate a registration-based system for support.
+Please submit your ticket at the support website.
+Please do not reply to this email as this email address is not monitored.
+
+Comodo Group, Inc. - US Office
+1255 Broad Street
+Clifton, NJ 07013-3398
+United States
+
+Comodo CA Limited - European Office
+26 Office Village
+Exchange Quay, Trafford Road
+Salford, Manchester M5 3EQ
+United Kingdom
+
+--(AlternativeBoundary)
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+  <style type=text/css>
+  <!--
+    body { font-family: Arial, Helvetica, sans-serif; font-size: 10pt }
+    p { font-family: Arial, Helvetica, sans-serif; font-size: 10pt }
+    pre { font-family: Arial, Helvetica, sans-serif; font-size: 10pt }
+    pre.validate { font-family: Arial, Helvetica, sans-serif; font-size:11pt; color:#007A00; font-weight: bold;}
+    pre.reject { font-family: Arial, Helvetica, sans-serif; font-size:7pt; color:#FF0000; font-weight: bold;}
+    td { font-family: Arial, Helvetica, sans-serif; font-size: 10pt }
+    .p8 { font-family: Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: normal }
+    .p4 { font-family: Arial, Helvetica, sans-serif; font-size: 10pt; color: #006699; font-weight: bold }
+    A:link    { font-family: Arial; color: #000066; font-weight: bold; text-decoration: underline }
+    A:visited { font-family: Arial; color: #000066; font-weight: bold; text-decoration: underline }
+    A:active  { font-family: Arial; color: #000066; font-weight: bold; text-decoration: underline }
+    A:hover   { font-family: Arial; color: #003399; font-weight: bold; text-decoration: underline }
+    .title { font-family: Arial, Helvetica, sans-serif; font-size: 11pt; font-weight: bold; color: #003399 }
+    -->
+  </style>
+</head>
+<body bgcolor=#CCCCCC text=#000000 leftmargin=4 topmargin=5>
+<table width=780 border=0 cellspacing=0 cellpadding=1 align=left>
+  <tr><td align=left><img border="0" src="http://secure.comodo.com/images/banners/logo_comodo.png"></td></tr>
+  <tr>
+    <td bgcolor=#000000>
+      <table width=780 border=0 cellspacing=0 cellpadding=3 align=left>
+        <tr>
+          <td bgcolor=#FFFFFF>
+            <br><font size=2 class=title>Domain Control Validation for:goodnetwork.world</font>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor=#FFFFFF colspan=2>
+            <p><br>Dear admin@goodnetwork.world,</p>
+            <pre>
+We have received a request to issue an SSL certificate for:
+Domain: goodnetwork.world
+Subject: 
+             Good Netowork
+<br></pre>
+            <pre class="validate">
+<b>To permit the issuance of the certificate please browse <a href="https://secure.comodo.com/products/EnterDCVCode?orderNumber=21012073"><font color=#007A00>here</font></a>
+and enter the following "validation code":</b></pre>
+            <pre class="validate" style="text-align:center;"><b>Jwjk8hvUE7wsOyWzE4RDwM30YgQXrLrF</b></pre>
+            <pre class="reject"><br><br><br><br>
+**************PLEASE NOTE CHOOSING THE OPTION BELOW WILL REJECT THE CERTIFICATE**************
+            If neither you nor a trusted colleague made this request for
+            a certificate then you can reject it by browsing to <a href="https://secure.comodo.com/products/RejectDCVCode?orderNumber=21012073&dcvCode=Jwjk8hvUE7wsOyWzE4RDwM30YgQXrLrF"><font color=#FF0000>Reject</font></a></pre>
+<p><br>Kind Regards,</p>
+<p><br><b>Comodo Security Services</b> on behalf of <b>directi</b></p>
+<p>
+  <b>Support Telephone:</b> +1.888.266.6361 / +1.703.581.6361<br>
+  <b>Support Website:</b>
+  <a href="http://support.comodo.com" target="_blank">http://support.comodo.com</a><br>
+  <b>Validation Docs Fax:</b> US and Canada +1.866.831.5837 / Worldwide +1.801.303.9291<br>
+<br>We now operate a registration-based system for support.
+<br>Please submit your ticket at the
+<a href="http://support.comodo.com">support website</a>.
+<br>Please <u>do not reply to this email</u> as this email address is not
+monitored.<br>
+<br><b>Comodo Group, Inc. - US Office</b><br>
+1255 Broad Street<br>
+Clifton, NJ 07013-3398<br>
+United States<br><br>
+<b>Comodo CA Limited - European Office</b><br>
+26 Office Village,<br>
+Exchange Quay, Trafford Road,<br>
+Salford, Manchester M5 3EQ,<br>
+United Kingdom<br>
+</p><br>
+<p>
+  <a href="http://www.comodo.com" target="_blank">Comodo</a>
+  offers essential infrastructure to enable e-merchants, and other
+  Internet-connected companies, software providers, and individual consumers to
+  interact and conduct business via the Internet safely and securely. Our
+  <a href="http://www.instantssl.com/ssl-certificate-products/ssl-certificate-epki.html"
+    >PKI</a> solutions, including
+  <a href="http://www.instantssl.com/ssl-certificate-products/ssl.html"
+    >SSL Certificates</a>,
+  <a href="http://www.instantssl.com/ssl-certificate-products/ssl/ssl-certificate-ev.html"
+    >EV SSL Certificates</a>,
+  <a href="http://www.instantssl.com/code-signing">Code Signing Certificates</a>
+  as well as
+  <a href="http://www.instantssl.com/ssl-certificate-products/free-email-certificate.html"
+    >Secure E-Mail Certificates</a>, increase consumer trust in transacting
+  business online, secure information through strong SSL encryption, and satisfy
+  many industry best practices or security compliance requirements.
+</p>
+
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</body>
+</html>
+
+--(AlternativeBoundary)--
+

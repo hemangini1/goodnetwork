@@ -1,0 +1,53 @@
+Return-path: <>
+Envelope-to: goodnk9o@md-in-51.webhostbox.net
+Delivery-date: Fri, 03 Jun 2016 15:56:40 +0000
+Received: from mailnull by md-in-51.webhostbox.net with local (Exim 4.86_1)
+	id 1b8rSi-002EFX-TG
+	for goodnk9o@md-in-51.webhostbox.net; Fri, 03 Jun 2016 15:56:40 +0000
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@md-in-51.webhostbox.net>
+To: goodnk9o@md-in-51.webhostbox.net
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1b8rSi-002EFX-TG@md-in-51.webhostbox.net>
+Date: Fri, 03 Jun 2016 15:56:40 +0000
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered. 
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from goodnk9o by md-in-51.webhostbox.net with local (Exim 4.86_1)
+	(envelope-from <goodnk9o@md-in-51.webhostbox.net>)
+	id 1b8rSi-002EF6-0T
+	for admin@otaiconference.com; Fri, 03 Jun 2016 15:56:40 +0000
+To: admin@otaiconference.com
+Subject: [India Food Policy Summit] Please moderate: "Semper Bacilisis"
+X-PHP-Script: otaiconference.com/wp-comments-post.php for 192.198.80.227, 202.100.167.149
+X-PHP-Originating-Script: 912:class-phpmailer.php
+Date: Fri, 3 Jun 2016 15:56:39 +0000
+From: WordPress <wordpress@otaiconference.com>
+Message-ID: <0b3b566f09579899b03e9fd2312a853e@otaiconference.com>
+X-Mailer: PHPMailer 5.2.14 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+A new comment on the post "Semper Bacilisis" is waiting for your approval
+http://otaiconference.com/2014/08/22/semper-bacilisis/
+
+Author: Austin (IP: 202.100.167.149, 202.100.167.149)
+Email: alexandra.williamson@gmail.com
+URL: http://Marcela.blog.co.uk
+Comment: 
+You have got interesting posts here. Your website can go viral, you need some initial 
+traffic only. How to get initial traffic??? Search google for: 
+Ferdeck's tricks
+
+Approve it: http://otaiconference.com/wp-admin/comment.php?action=approve&c=41#wpbody-content
+Trash it: http://otaiconference.com/wp-admin/comment.php?action=trash&c=41#wpbody-content
+Spam it: http://otaiconference.com/wp-admin/comment.php?action=spam&c=41#wpbody-content
+Currently 37 comments are waiting for approval. Please visit the moderation panel:
+http://otaiconference.com/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content
+

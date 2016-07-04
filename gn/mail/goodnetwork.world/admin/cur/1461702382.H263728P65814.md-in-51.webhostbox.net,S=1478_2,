@@ -1,0 +1,34 @@
+Return-path: <goodnk9o@md-in-51.webhostbox.net>
+Envelope-to: admin@goodnetwork.world
+Delivery-date: Tue, 26 Apr 2016 20:26:22 +0000
+Received: from goodnk9o by md-in-51.webhostbox.net with local (Exim 4.86_1)
+	(envelope-from <goodnk9o@md-in-51.webhostbox.net>)
+	id 1av9Ys-000H7P-5a
+	for admin@goodnetwork.world; Tue, 26 Apr 2016 20:26:22 +0000
+To: admin@goodnetwork.world
+Subject: [Good Network] Your site has updated to WordPress 4.5.1
+X-PHP-Script: goodnetwork.world/wp-cron.php for 103.53.42.51
+X-PHP-Originating-Script: 912:class-phpmailer.php
+Date: Tue, 26 Apr 2016 20:26:22 +0000
+From: Good Network <hello@goodnetwork.world>
+Message-ID: <994d064e905322a62fbe824aa96c59fb@goodnetwork.world>
+X-Mailer: PHPMailer 5.2.14 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Authenticated_sender: Good Network <hello@goodnetwork.world>
+X-Authenticated_user: goodnk9o
+
+Howdy! Your site at https://goodnetwork.world has been updated automatically to WordPress 4.5.1.
+
+No further action is needed on your part. For more on version 4.5.1, see the About WordPress screen:
+https://goodnetwork.world/wp-admin/about.php
+
+If you experience any issues or need support, the volunteers in the WordPress.org support forums may be able to help.
+https://wordpress.org/support/
+
+You also have some plugins or themes with updates available. Update them now:
+https://goodnetwork.world/wp-admin/
+
+The WordPress Team
+

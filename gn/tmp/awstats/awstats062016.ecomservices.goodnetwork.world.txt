@@ -1,0 +1,382 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201606 will be lost/reset.
+# Last config file used to build this data file was /home/goodnk9o/tmp/awstats/awstats.ecomservices.goodnetwork.world.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2027                
+POS_TIME 2715                
+POS_VISITOR 7463                
+POS_DAY 9189                
+POS_DOMAIN 3472                
+POS_LOGIN 3742                
+POS_ROBOT 3897                
+POS_WORMS 4118                
+POS_EMAILSENDER 4249                
+POS_EMAILRECEIVER 4392                
+POS_SESSION 9631                
+POS_SIDER 9826                
+POS_FILETYPES 4527                
+POS_DOWNLOADS 4818                
+POS_OS 4927                
+POS_BROWSER 5127                
+POS_SCREENSIZE 5556                
+POS_UNKNOWNREFERER 5630                
+POS_UNKNOWNREFERERBROWSER 6145                
+POS_ORIGIN 6383                
+POS_SEREFERRALS 6524                
+POS_PAGEREFS 6668                
+POS_SEARCHWORDS 6816                
+POS_KEYWORDS 6968                
+POS_MISC 2377                
+POS_ERRORS 7027                
+POS_CLUSTER 3598                
+POS_SIDER_404 7154                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160628044121 11694 3657043 19203736246650
+FirstTime 20160613082752
+LastTime 20160628044118
+LastUpdate 20160628054519 571 0 571 0 0
+TotalVisits 91                  
+TotalUnique 38                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 39                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 150 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 5 29 19097446 0 13 100339
+3 23 168 61615380 3 5 112382
+4 7 42 19644391 0 0 0
+5 416 1452 207698422 42 55 976
+6 378 737 113191015 32 33 244
+7 522 1139 173778307 54 64 244
+8 268 676 44915189 29 64 140578
+9 900 2950 188112630 83 132 214027
+10 438 1289 117797727 45 62 185768
+11 522 1350 146528218 49 74 27067331
+12 88 163 21092017 26 36 717506
+13 1 14 1174213 1 1 0
+14 13 104 37994224 1 1 0
+15 16 160 2317664 0 0 0
+16 20 138 23366018 2 4 15776286
+17 11 92 3285575 1 1 0
+18 18 136 56014975 4 5 102580
+19 44 431 85687472 4 4 0
+20 4 11 138028 0 0 0
+21 9 52 20643018 1 7 344613
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+in 3659 10800 1182834084
+us 42 331 161053787
+ca 2 2 204058
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+bot[\s_+:,\.\;\/\\-] 25 1032807 20160623184915 13
+no_user_agent 2 22152 20160613085334 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+css 1815 58019261 0 0
+png 2460 10052072 0 0
+ttf 3 492568 0 0
+woff2 3 66624 0 0
+woff 532 15630484 0 0
+php 2719 513655252 0 0
+html 446 72764993 0 0
+jpg 438 17863582 0 0
+js 2241 24215544 0 0
+svg 38 5674 0 0
+gif 438 631325875 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/wp-content/uploads/mk_templates/metis/options.txt 1 0 21152
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+linuxandroid 1095 121
+winlong 1 1
+macosx6 61 8
+ios_iphone 132 17
+winnt 8565 3340
+linux 172 20
+win7 140 20
+macosx 920 135
+Unknown 47 41
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 20
+chrome50.0.2661.89 8 2
+safari9.0.3 267 38
+firefox3.6 1 1
+android 57 10
+firefox47.0 51 8
+chrome51.0.2704.103 476 121
+chrome33.0.0.0 901 94
+safari9.0 132 17
+mozilla 1 1
+firefox25.0 1 1
+firefox43.0 60 7
+netscape5.0 1 1
+safari9.1.1 542 81
+chrome51.0.2704.84 8153 3227
+chrome50.0.2661.102 36 5
+chrome27.0.1453 301 35
+chrome46.0.2486.0 98 13
+firefox3.6.3 1 1
+Unknown 38 38
+safari 8 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+Google-AdWords-Express 20160619122638
+Mozilla/5.0,_Google-AdWords-Express 20160619122945
+WordPress/4.5.3;_http://www.ecomservices.co 20160628023122
+Safari/11601.6.17_CFNetwork/760.5.1_Darwin/15.5.0_(x86_64) 20160614064435
+WordPress/4.5.2;_http://www.ecomservices.co 20160622053229
+Safari/11601.4.4_CFNetwork/760.2.6_Darwin/15.3.0_(x86_64) 20160622070605
+Safari/10601.6.17_CFNetwork/720.5.7_Darwin/14.5.0_(x86_64) 20160625031224
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Google-AdWords-Express 20160619122638
+WordPress/4.5.3;_http://www.ecomservices.co 20160628023122
+WordPress/4.5.2;_http://www.ecomservices.co 20160622053229
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 434 660
+From1 0 0
+From2 0 0
+From3 0 0
+From4 3269 10473
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+302 303 118182
+206 15 43587537
+500 5 0
+301 61 2196
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 39
+122.160.18.34 3426 9204 825133735 20160628044118 20160628041900 /
+103.53.42.51 37 37 1 20160628023122
+122.161.68.146 33 229 59639162 20160618141825
+66.249.82.156 15 109 77725579 20160622053620
+115.117.165.194 15 93 5305244 20160616052422
+115.117.170.166 11 78 73429009 20160627091029
+66.249.82.160 11 95 56707168 20160622053620
+122.161.239.248 10 64 2621753 20160615191902
+122.176.227.136 10 66 2628180 20160615181208
+122.161.126.75 10 55 18323987 20160616193510
+66.249.82.152 9 97 7211159 20160622053621
+122.161.172.59 9 231 3250515 20160615193437
+1.39.34.246 9 62 504648 20160617162551
+112.196.166.122 9 75 5341411 20160616123816
+115.118.28.195 8 51 945015 20160615191911
+115.118.52.154 8 77 22384963 20160625031235
+122.161.151.126 7 78 2192916 20160614191105
+210.89.63.4 6 32 1370694 20160624213543
+106.215.160.38 6 44 20354212 20160619051653
+1.39.34.8 5 36 17636049 20160619184925
+1.39.25.33 5 43 20235618 20160627162850
+120.59.29.59 5 42 19252476 20160624030323
+182.69.114.80 5 43 20234718 20160619184955
+171.48.49.140 5 31 2509186 20160615162821
+45.118.158.145 5 27 2407300 20160615114512
+75.101.215.226 1 1 103195 20160618054123
+66.249.88.88 1 1 102513 20160619122638
+112.196.152.193 2 19 19272324 20160624213606
+122.161.230.165 1 1 103195 20160617182254
+208.82.99.241 4 27 19101677 20160625031317
+122.161.242.119 1 22 17929588 20160619185120
+122.162.146.199 0 1 0 
+120.59.20.161 1 2 116566 20160615163846
+1.22.34.193 3 14 352485 20160613151645
+158.69.228.18 2 2 204058 20160618094447
+1.39.33.217 1 6 123660 20160616174816
+1.39.32.119 3 10 138028 20160613202450
+115.118.155.179 3 27 19097446 20160628023126
+66.249.88.98 1 1 102496 20160619122945
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 14
+20160613 746 3439 147623500 7
+20160614 625 1235 135498855 7
+20160615 869 2308 168244348 15
+20160616 794 1794 148781309 9
+20160617 386 748 154105228 6
+20160618 37 233 59845552 6
+20160619 20 148 76359576 7
+20160620 15 129 60704188 3
+20160622 35 272 139848328 8
+20160623 2 2 0 2
+20160624 22 140 40220648 7
+20160625 12 104 41486640 2
+20160627 129 511 132631920 9
+20160628 11 70 38741837 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 7
+5mn-15mn 3
+2mn-5mn 5
+30s-2mn 11
+0s-30s 57
+30mn-1h 7
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 46
+/wp-admin/admin-ajax.php 2104 40816874 1 4
+/ 422 70523506 52 15
+/wp-admin/post.php 301 443418216 0 0
+/wp-content/themes/jupiter/assets/stylesheet/icons/awesome-icons/fontawesome-webfont.woff 131 2618080 2 8
+/wp-content/themes/jupiter/assets/stylesheet/icons/pe-line-icons/Pe-icon-line.woff 131 1495800 2 9
+/wp-content/themes/jupiter/assets/stylesheet/icons/theme-icons/theme-icons.woff 130 1398768 1 16
+/wp-content/themes/jupiter/assets/stylesheet/icons/icomoon/fonts-icomoon.woff 129 9808320 4 6
+/wp-admin/edit.php 71 5123790 0 0
+/wp-admin/load-scripts.php 48 3422701 0 0
+/wp-cron.php 36 0 29 28
+/wp-admin/load-styles.php 27 1902292 0 0
+/wp-login.php 25 79484 0 2
+/wp-admin/admin.php 18 6509376 0 0
+/wp-admin/async-upload.php 16 50971 0 0
+/wp-admin/plugins.php 15 908993 0 0
+/wp-admin/customize.php 12 4571037 0 0
+/wp-admin/ 10 730273 0 0
+/explore/ 8 930241 0 0
+/wp-admin/post-new.php 5 2245624 0 0
+/wp-admin/plugin-install.php 5 685507 0 0
+/wp-admin/options-general.php 5 432388 0 0
+/wp-admin/nav-menus.php 4 1098436 0 0
+/wp-admin/update.php 4 137122 0 0
+/wp-admin/revision.php 4 745030 0 0
+/wp-admin/themes.php 4 174318 0 0
+/wp-content/plugins/js_composer_theme/assets/css/lib/typicons/src/font/typicons.woff 2 119744 0 0
+/wp-content/themes/jupiter/assets/stylesheet/icons/icomoon/fonts-icomoon.ttf 1 199248 0 1
+/wp-admin/options-reading.php 1 53767 0 0
+/apple-touch-icon-precomposed.png/ 1 103958 0 0
+/wp-content/plugins/js_composer_theme/assets/css/lib/vc-linecons/fonts/vc_linecons.woff 2 54616 0 0
+/wp-content/plugins/js_composer_theme/assets/css/lib/vc-entypo/fonts/vc_entypo.woff 2 90304 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 3 17204 0 0
+/wp-admin/theme-install.php 1 36861 0 0
+/wp-admin/post.phpfavicon.ico/ 2 204962 0 0
+/apple-touch-icon.png/ 1 103934 0 0
+/portfolio-posts/skilet-album-cover/ 2 168119 0 0
+/wp-admin/options-permalink.php 3 161675 0 0
+/wp-admin/widgets.php 1 218008 0 0
+/wp-admin/options-writing.php 1 53618 0 0
+/wp-admin/upgrade.php 1 1 0 1
+/wp-includes/js/tinymce/wp-tinymce.php 3 505341 0 0
+/wp-admin/upload.php 2 201692 0 0
+/wp-content/plugins/js_composer_theme/assets/css/lib/vc-open-iconic/fonts/vc_openiconic.woff 2 27648 0 0
+/wp-content/plugins/js_composer_theme/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.woff2 3 66624 0 0
+/wp-content/plugins/js_composer_theme/assets/css/lib/monosocialiconsfont/fonts/MonoSocialIconsFont.ttf 2 293320 0 0
+/wp-admin/update-core.php 2 102130 0 0
+END_SIDER

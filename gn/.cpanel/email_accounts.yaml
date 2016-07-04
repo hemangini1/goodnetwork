@@ -1,0 +1,40 @@
+--- 
+5yearold.goodnetwork.world: 
+  account_count: 0
+  accounts: {}
+
+5yearold.in: 
+  account_count: 0
+  accounts: {}
+
+__version: '2.1'
+ecomservices.co: 
+  account_count: 0
+  accounts: {}
+
+ecomservices.goodnetwork.world: 
+  account_count: 0
+  accounts: {}
+
+goodnetwork.world: 
+  account_count: 3
+  accounts: 
+    admin: 
+      disk_mtime: '1467105713'
+      diskquota: '2147483648'
+      diskused: 139932
+    hello: 
+      disk_mtime: '1467105713'
+      diskquota: '2147483648'
+      diskused: 0
+    onkar: 
+      disk_mtime: '1467105713'
+      diskquota: '2147483648'
+      diskused: 174365
+  disk_mtime: '1467105713'
+  passwd_mtime: '1467105713'
+  quota_mtime: '1467105713'
+goodnetwork.world.md-in-51.webhostbox.net: 
+  account_count: 0
+  accounts: {}
+

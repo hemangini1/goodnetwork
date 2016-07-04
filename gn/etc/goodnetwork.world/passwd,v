@@ -1,0 +1,69 @@
+head	1.4;
+access;
+symbols;
+locks
+	goodnk9o:1.4; strict;
+comment	@# @;
+
+
+1.4
+date	2016.04.14.05.26.26;	author goodnk9o;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2016.03.23.08.16.03;	author goodnk9o;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2016.03.22.10.46.20;	author goodnk9o;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2016.03.22.10.46.20;	author goodnk9o;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.4
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@onkar:x:912:609::/home/goodnk9o/mail/goodnetwork.world/onkar:/home/goodnk9o
+admin:x:912:609::/home/goodnk9o/mail/goodnetwork.world/admin:/home/goodnk9o
+hello:x:912:609::/home/goodnk9o/mail/goodnetwork.world/hello:/home/goodnk9o
+@
+
+
+1.3
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d3 1
+@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d2 1
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@

@@ -1,0 +1,39 @@
+
+NOTICE Undefined index: email /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3613
+NOTICE Undefined index: email /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3615
+NOTICE Undefined index: email /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3536
+NOTICE Undefined index: ins_email /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3566
+NOTICE Undefined index: rem_email /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3566
+NOTICE Undefined index: editdetail_email /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3566
+NOTICE Undefined index: backup_email /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3566
+NOTICE Undefined index: disable_restore_email /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3566
+NOTICE Undefined index: disable_clone_email /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3566
+NOTICE Undefined index: disable_all_notify_update /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3566
+NOTICE Undefined index: timezone /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3566
+NOTICE Undefined index: email /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3566
+NOTICE Undefined index: pfxapi_key /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3566
+NOTICE Undefined index: eula_accept /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3566
+NOTICE Undefined index: color_theme /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3566
+NOTICE Undefined index: user_defined_color /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3566
+NOTICE Undefined index: arrange_domain /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3566
+NOTICE Undefined index: name /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 3920
+NOTICE Undefined offset: 1 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 11054
+NOTICE Undefined index: pgtimezone /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 68
+NOTICE Undefined variable: __settings /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/backup.php 696
+WARNING
+NOTICE Undefined offset: 1 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 11054
+NOTICE Undefined offset: 1 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 4014
+NOTICE Undefined offset: 1 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 4018
+NOTICE Undefined offset: 1 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 4022
+NOTICE Undefined offset: 1 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 11056
+NOTICE Undefined index: name /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/hooks/pre_upgrade.php 13
+NOTICE Undefined offset: 2 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/hooks/pre_upgrade.php 16
+NOTICE Undefined offset: 1 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/hooks/pre_upgrade.php 16
+NOTICE Undefined index: name /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/hooks/pre_upgrade.php 20
+NOTICE Undefined offset: 2 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 11054
+NOTICE Undefined offset: 2 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 11054
+NOTICE Undefined offset: 2 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 11054
+NOTICE Undefined offset: 2 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 11054
+NOTICE Undefined offset: 2 /usr/local/cpanel/whostmgr/docroot/cgi/softaculous/enduser/main/functions.php 11054
+WARNING
+WARNING

@@ -1,0 +1,27 @@
+.woocommerce-error {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.woocommerce .woocommerce-error li {
+    @extend .jobify-alert;
+	margin: 0 0 10px;
+
+    .button {
+        font-size: 12px;
+        padding: 8px 12px;
+        border-radius: 3px;
+        margin-right: 10px;
+    }
+}
+
+.woocommerce-info,
+.woocommerce-message {
+	@extend .jobify-alert;
+	@extend .jobify-alert--success;
+
+	&:first-of-type {
+		margin-top: 0;
+	}
+}

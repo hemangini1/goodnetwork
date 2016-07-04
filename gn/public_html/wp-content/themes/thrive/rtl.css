@@ -1,0 +1,408 @@
+/*
+Theme Name: thrive
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+http://codex.wordpress.org/Right_to_Left_Language_Support
+*/
+
+menu, ul, ol {
+	padding-right: 0;
+}
+
+.rtl .wp-polls ul li, .wp-polls-ul li, 
+.rtl .wp-polls-ans ul li,
+.rtl #tribe-events-content .tribe-events-page-title {
+	text-align: right;
+}
+
+.rtl.single-project #thrive-project-tasks ul li.last-user-update
+{
+	text-align: left;
+}
+
+.rtl #content-left-col {
+	padding-left: 0;
+	padding-right: 15px;
+}
+
+.buddypress.directory.members span.thrive-member-role,
+a.doc-permissions-toggle,
+.rtl #bp-create-doc-button,
+.buddypress.directory.groups .item-list-tabs#subnav,
+.buddypress ul#groups-list li .group-type,
+
+.single-item.groups #item-header #item-header-content .highlight,
+.pull-right {
+	float: left!important;
+}
+
+@media (min-width: 992px ) {
+
+	#site-user-updates ul {
+		float: left !important;	
+	}
+
+}
+
+@media ( max-width: 768px ) {
+	
+	.rtl #thrive_nav #thrive_nav_wrap #site-navigation ul li a {
+		padding-right: 0;
+		margin-right: 0;
+	}
+
+}
+
+
+.rtl #mobile-menu {
+	text-align: left;
+}
+
+/**
+ * Visual Composer Float Left Classes
+ */
+
+.buddypress ul#activity-stream li .activity-comments ul .acomment-avatar,
+
+.vc_col-sm-1, .vc_col-sm-2, .vc_col-sm-3, .vc_col-sm-4, .vc_col-sm-5, .vc_col-sm-6, 
+.vc_col-sm-7, .vc_col-sm-8, .vc_col-sm-9, .vc_col-sm-10, .vc_col-sm-11, .vc_col-sm-12 {
+	float: right!important;
+}
+
+.rtl.thrive-layout-2_columns #site-search input#s {
+	float: left!important;
+	max-width: 80%;
+}
+
+.rtl.thrive-layout-2_columns .menu-item i._before {
+	margin-right: 0;
+	margin-left: .25em;
+}
+
+/** --End Visual Composer */
+
+.rtl #site-user-updates #navigation ul {
+	width: 100%;
+
+}
+
+.rtl #site-user-updates #navigation ul li:hover ul.sub-menu {
+	display: block;
+    right: -124px;
+    left: auto;
+}
+
+#site-user-updates #navigation ul,
+
+.buddypress.directory.groups .item-list-tabs,
+.buddypress.directory.groups .item-list-tabs ul li,
+#item-nav ul li,
+
+.buddypress ul#activity-stream li .activity-comments .ac-reply-avatar,	
+.rtl #site-user-updates ul .item,
+.single-item.groups #group-admins li, .single-item.groups #group-mods li,
+.single-item.groups #group-admins:before, .single-item.groups #group-mods:before,
+#item-header #item-header-avatar, 
+#item-header #item-header-content,
+.widget.buddypress #friends-list li .item-avatar, 
+.widget.buddypress #groups-list li .item-avatar, 
+.widget.buddypress #members-list li .item-avatar,
+.buddypress #whats-new-form #whats-new-avatar,
+.buddypress ul#activity-stream li .activity-avatar,
+.bp_docs #buddypress #bp-docs-all-docs li, 
+.rtl.single-bp_doc #buddypress #bp-docs-all-docs li, 
+.rtl.directory #buddypress #bp-docs-all-docs li, 
+.rtl.buddypress #buddypress #bp-docs-all-docs li,
+.pull-left {
+	float: right!important;
+}
+
+.widget.buddypress #friends-list li .item, 
+.widget.buddypress #groups-list li .item, 
+.widget.buddypress #members-list li .item {
+	margin-right: 4%;
+	margin-left: 0;
+}
+
+
+@media (min-width: 768px) {
+	.col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
+	    float: right!important;
+	}
+}
+
+@media (max-width: 768px) {
+	.rtl #thrive_nav #thrive_nav_wrap #site-navigation ul li a {
+		padding-right: 0;
+	}
+}
+
+.rtl.single-project #thrive-project-tasks ul li.details {
+	padding-left: 0;
+	padding-right: 15px;
+}
+
+#content.site-content #content-right-col {
+	padding-left: 15px!important;
+}
+
+.rtl #thrive-user-nav-messages li {
+	padding: 0 20px;
+
+}
+
+.rtl #message-notification::before {
+	right: 86%;
+}
+
+.rtl #message-notification::after {
+	left: 50%;
+	right: auto;
+}
+
+.rtl #message-notification.user-notifications ul li .message-item-link:hover {
+	background: transparent;
+}
+
+.rtl .user-notifications {
+	left: -27.5px;
+	right: auto;
+}
+
+.rtl .user-notifications:after, .rtl .user-notifications:before {
+	right: 75%;
+}
+.rtl .user-notifications:before {
+	margin-left: -70px;
+}
+
+.rtl #message-notification.user-notifications:after, 
+.rtl #message-notification.user-notifications:before {
+	margin-left: -160px;
+}
+
+.rtl.single-project #thrive-project-tasks ul,
+.rtl.buddypress.directory.groups .item-list-tabs ul,
+.rtl.buddypress ul#groups-list,
+.rtl.buddypress ul#friends-list, .buddypress ul#members-list,
+.rtl.buddypress #subnav ul,
+.rtl.bp_docs #buddypress #bp-docs-all-docs, 
+.rtl.single-bp_doc #buddypress #bp-docs-all-docs, 
+.rtl.directory #buddypress #bp-docs-all-docs, 
+.rtl.buddypress #buddypress #bp-docs-all-docs,
+.rtl.buddypress ul#activity-stream {
+	padding-right: 0;
+}
+
+.rtl #secondary.widget-area {
+	margin-left: 0;
+}
+
+.rtl.single-post .nav-links .nav-previous a {
+	width: auto;
+	max-width: 90%;
+}
+
+.rtl .buddypress ul#activity-stream {
+	padding-right: 0;
+	padding-left: 15px;
+}
+
+.rtl .buddypress #subnav ul {
+	padding-right: 0;
+}
+
+.rtl #whats-new-avatar {
+	margin-right: 15px;
+}
+.rtl #thrive-new-project-btn:before {
+	left: 10px;
+}
+/**
+ * Disable icons for some elements.
+ */
+.bp_docs #buddypress .bp-docs-attachment-clip.paperclip-jaunty:before, 
+.single-bp_doc #buddypress .bp-docs-attachment-clip.paperclip-jaunty:before, 
+.directory #buddypress .bp-docs-attachment-clip.paperclip-jaunty:before, 
+.buddypress #buddypress .bp-docs-attachment-clip.paperclip-jaunty:before,
+.buddypress .activity-type-tabs ul li a:before,
+.buddypress .activity-type-tabs ul li a:before,
+
+.widget_recent_entries ul li a:before,
+
+.buddypress ul#groups-list li .action a.leave-group:before,
+
+.bp-user #item-header #item-buttons .generic-button a:before, 
+.bp-user #item-header #item-buttons .generic-button a.add:before, 
+.bp-user #item-header #item-buttons .generic-button a.pending_friend:before, 
+.bp-user #item-header #item-buttons .generic-button a.remove:before, 
+.bp-user #item-header #item-buttons .generic-button a.not_friends:before, 
+.bp-user #item-header #item-buttons .generic-button a.send-message:before, 
+.bp-user #item-header #item-buttons .generic-button a.mention:before,
+
+.buddypress ul#groups-list li .action a:before,
+
+.single-item.groups .group-button.join-group:before, 
+.single-item.groups .group-button.leave-group:before,
+
+.rtl .single-item.groups .group-button.join-group:before, 
+.rtl .single-item.groups .group-button.leave-group:before,
+.rtl .single-item.groups #home-groups-li a:before, 
+.rtl .single-item.groups #nav-docs-groups-li a:before, 
+.rtl .single-item.groups #nav-buddydrive-groups-li a:before, 
+.rtl .single-item.groups #members-groups-li a:before, 
+.rtl .single-item.groups #invite-groups-li a:before, 
+.rtl .single-item.groups #home-groups-li a:before,
+.rtl #item-nav ul li a:before {
+	margin-left: 10px;
+}
+
+.rtl.group-create #group-create-tabs ul li a:after {
+	right: 5px;
+	left: auto;
+	margin: 10px;
+}
+.rtl.buddypress ul#activity-stream li.load-more.loading a:after {
+	margin-right: 10px;
+}
+
+.rtl.bp-user #item-header #item-buttons .generic-button {
+	float: right;
+	margin-right: 0;
+	margin-left: 15px;
+}
+
+.rtl.thrive-layout-1_column #site-logo {
+	margin-right: -60px;
+	margin-left: 0;
+}
+
+.rtl .content-area ul {
+	padding-left: 0;
+	padding-right: 2.8em;
+}
+
+/**
+ * Menu
+ */
+.rtl #thrive_nav #thrive_nav_wrap #site-navigation ul li:hover > ul.sub-menu {
+	left: auto;
+	right: 0;
+}
+
+.rtl #thrive_nav #thrive_nav_wrap #site-navigation .sub-menu li:hover ul.sub-menu {
+	right: 150px;
+	left: auto;
+}
+
+.rtl blockquote:before {
+	content: "''";
+}
+
+.rtl.bp_docs #buddypress table.doctable .attachment-clip-cell, 
+.rtl.single-bp_doc #buddypress table.doctable .attachment-clip-cell, 
+.rtl.directory #buddypress table.doctable .attachment-clip-cell, 
+.rtl.buddypress #buddypress table.doctable .attachment-clip-cell {
+	display: none;
+}
+
+.rtl .bx-wrapper {
+	direction: ltr;
+}
+
+.rtl .wpb_accordion .wpb_accordion_wrapper .ui-state-default .ui-icon, 
+.rtl .wpb_accordion .wpb_accordion_wrapper .ui-state-active .ui-icon {
+	right: auto;
+	left: 0.7em;
+}
+
+.rtl .vc_toggle_title h4 {
+	right: 40px;
+	position: relative;
+}
+.rtl i.vc_toggle_icon {
+	left: auto;
+	right: 0;
+}
+
+.rtl.buddypress .activity-type-tabs ul li.loading a:after {
+	margin-right: 10px;
+} 
+
+.rtl .widget_recent_entries ul li {
+	padding-left: 0;
+	padding-right: 25px;
+}
+.rtl .widget_recent_entries ul li a:before {
+	left: auto;
+	right: 0;
+}
+
+@media (min-width: 768px) {
+	body.rtl.thrive-layout-2_columns #thrive-global-wrapper {
+    	padding-left: 0;
+    	padding-right: 20%;
+	}
+}
+
+body.rtl.thrive-layout-2_columns #sidebar-wrapper {
+	left: auto;
+	right: 20%;
+	margin-left: 0;
+	margin-right: -20%;
+}
+
+body.rtl .nano > .nano-content {
+	right: 0!important;
+	left: -15px;
+}
+
+body.rtl .rtm-upload-button-wrapper {
+	margin-right: -10px;
+    margin-left: 5px;
+}
+
+body.rtl.buddypress ul#friends-list li .action a:before, 
+body.rtl.buddypress ul#members-list li .action a:before {
+	margin-right: 0;
+	margin-left: 10px;
+}
+
+body.rtl.thrive-inline #rtmedia-media-nav-groups-li span, 
+body.rtl.thrive-inline #media-personal-li span {
+    margin-left: 0;
+    margin-right: 5px;
+}
+body.rtl #item-nav ul {
+	margin-bottom: 0;
+}
+
+body.rtl.thrive-inline .rtmedia-container .rtmedia-no-media-found:before,
+body.rtl.thrive-inline .no-docs:before, 
+body.rtl.thrive-inline.docs .no-docs:before,
+body.rtl #message.error:before,
+body.rtl #buddypress p.success:before, 
+body.rtl #buddypress p.error:before, 
+body.rtl #buddypress p.warning:before, 
+body.rtl #buddypress p.info:before {
+	float: right;
+	margin-left: 5px;
+	margin-right: 0;
+}
+
+body.rtl .rtm-media-options .rtm-media-options-list {
+	padding-right: 0;
+	margin-right: 0;
+}
+
+body.rtl.bp-docs #buddypress .docs-info-header p.currently-viewing:before, 
+body.rtl.bp_docs #buddypress .docs-info-header p.currently-viewing:before, 
+body.rtl.single-bp_doc #buddypress .docs-info-header p.currently-viewing:before, 
+body.rtl.directory #buddypress .docs-info-header p.currently-viewing:before, 
+body.rtl.buddypress #buddypress .docs-info-header p.currently-viewing:before {
+	margin-right: 0;
+	margin-left: 15px;
+}

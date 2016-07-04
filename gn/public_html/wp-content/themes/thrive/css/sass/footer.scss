@@ -1,0 +1,128 @@
+html,body{
+
+}
+
+#page {
+	min-height: 100%;
+	position: relative;
+}
+
+#content {
+}
+
+/**
+ * @Footer Widgets Specification
+ * Background: $primary
+ * Foreground: $light
+ * Links: $light_secondary
+ * Links Hover: $light:underline
+ */
+#thrive_footer_widget {
+
+	color: $light;
+	@extend .bg-primary;
+	padding: 50px 0;
+
+	.widget-title {
+		color: $light;
+	}
+    .fmember-member-details {
+
+        .fmember-title {
+            h5 {
+                color: $light_secondary;
+            }
+        }
+        a {
+            color: $light_secondary;
+        }
+    }
+	.fmember-member-details .fmember-links a {
+		display: inline-block;
+	    border: 1px solid $light_secondary;
+	    background: transparent;
+	    margin-right: 2.5px;
+        font-size: 12px;
+        padding: 10px 20px ;
+        .material-icons {
+            margin-bottom: 10px;
+			color: $light_secondary;
+        }
+        &:hover{
+            text-decoration: none;
+        }
+	}
+
+	@media ( max-width: 768px ) {
+		padding: 50px 0;
+	}
+
+	a {
+		color: $light_secondary;
+			&:hover {
+				color: $light;
+				text-decoration: underline;
+			}
+	}
+
+	.footer-widget {
+		margin: 0 0 35px 0;
+	}
+
+	.footer-widgets-2-columns:nth-child(3n),
+	.footer-widgets-3-columns:nth-child(4n)
+	{
+		clear: left;
+	}
+
+	.fmember-member-details {
+
+		.fmember-avatar{
+			h3.h6 {
+				color: $light;
+			}
+		}
+
+		.fmember-links li a {
+			width: 50px;
+			background: none;
+			font-size: 12px;
+		}
+	}
+
+    .fmember-member-details  {
+        margin-left: -25px;
+        margin-right: -25px;
+        .fmember-links {
+            background: transparent;
+            border-top: 0 none;
+            border-bottom: 0 none;
+        }
+        .fmember-links {
+            margin-bottom: -25px;
+        }
+    }
+}
+
+/**
+ * @Footer Specification
+ * Background: $dark
+ * Foreground: $light_secondary
+ * Links: $light_secondary:underline
+ * Links Hover: $light
+ */
+#thrive_footer {
+	padding: 25px 0;
+	color: $light_secondary;
+	background-color: $dark;
+	text-align: center;
+
+	a {
+		color: $light_secondary;
+		text-decoration: underline;
+			&:hover{
+				color: $light;
+				text-decoration: none;
+			}
+	}
+}

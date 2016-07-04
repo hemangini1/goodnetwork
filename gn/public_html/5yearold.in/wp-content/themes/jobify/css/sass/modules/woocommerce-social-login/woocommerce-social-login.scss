@@ -1,0 +1,44 @@
+@import "modal";
+
+.wc-social-login {
+	margin-bottom: 30px;
+
+	p {
+		padding: 0;
+	}
+
+	.button-social-login,
+	a.button-social-login {
+		font-size: 0;
+		text-shadow: none;
+		line-height: 50px;
+		width: 50px;
+		height: 50px;
+		border-radius: 50%;
+		border: 0;
+		margin: 0 10px 10px 0;
+		padding: 0;
+		box-shadow: none;
+		display: inline-block;
+
+		.si {
+			font-size: 22px;
+			line-height: 50px;
+			text-align: center;
+			color: #fff;
+			border: 0;
+			right: 0;
+			width: 100%;
+			display: block;
+			padding: 0;
+
+			&.si-facebook:before {
+				margin-left: -5px;
+			}
+
+			&.si-twitter:before {
+				margin-right: -1px;
+			}
+		}
+	}
+}

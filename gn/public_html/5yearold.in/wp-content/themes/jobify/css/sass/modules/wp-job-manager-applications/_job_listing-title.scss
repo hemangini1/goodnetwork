@@ -1,0 +1,10 @@
+ul.job_listings .job-manager-applications-applied-notice {
+	float: none;
+	font-size: 13px;
+	margin: 0.5em 0;
+
+	@include bp(md) {
+		display: inline-block;
+		margin: 0 0 0 5px;
+	}
+}

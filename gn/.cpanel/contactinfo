@@ -1,0 +1,12 @@
+--- 
+"email": 'bharat93.iii@gmail.com'
+"ip": '122.160.18.34'
+"notify_contact_address_change": 1
+"notify_contact_address_change_notification_disabled": 1
+"notify_disk_limit": 1
+"notify_email_quota_limit": 1
+"notify_password_change": 1
+"notify_password_change_notification_disabled": 1
+"origin": 'cpanel'
+"pushbullet_access_token": ''
+"second_email": 'apoorvsharma.965@gmail.com'

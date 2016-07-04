@@ -1,0 +1,31 @@
+#thrive-secondary-menu {
+
+	background: $light;
+	padding: 10px 25px 10px;
+	border-bottom: 1px solid $dark_borders;
+
+	@media ( max-width: 768px ) {
+		padding: 10px 0;
+	}
+
+
+	#searchsubmit {
+		display: none;
+	}
+
+	input[name=s] {
+		margin-bottom: 0;
+		border-bottom: 0;
+	}
+
+}
+
+#thrive-secondary-menu {
+	@media ( max-width: 992px ) {
+		display: block !important; /*Overwrite Bootstrap !important rule for .hide class*/
+	}
+}
+
+#mobile-menu {
+	text-align: right;
+}

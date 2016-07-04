@@ -1,0 +1,195 @@
+.buddypress #item-body {
+	form {
+
+		// BuddyPress Messages
+		&#messages-bulk-management{
+			table.messages-notices {
+				tr {
+					@media(max-width: 768px){
+						&:hover {
+							background: none;
+						}
+					}
+				}
+				thead {
+					th.thread-checkbox{
+					    padding: 10px 20px;
+					}
+				}
+				tbody {
+					td {
+						&.thread-info,
+						&.thread-options {
+							padding-left: 5px;
+						}
+						&.thread-from {
+							padding-left: 7%;
+							position: relative;
+
+							@media (max-width: 768px) {
+								width: 100%;
+								float: left;
+								display: block;
+								margin-bottom: 0;
+								padding: 15px 20px 0 5px;
+							}
+						}
+
+					}
+				}
+			}
+		}
+		&#send_message_form {
+			ul.acfb-holder {
+				width: 100%;
+			    float: left;
+
+				li {
+					&.friend-tab {
+						color: $yellow_50;
+						border-color: #eceff1;
+					    margin: 0 0 5px 5px;
+					    padding: 2px 30px 2px 7px;
+
+						position: relative;
+						left: -5px;
+
+						@media(max-width: 375px){
+							width: 100%;
+						}
+
+						span {
+							&.p {
+								font-size: 0;
+							    display: inline-block;
+							    height: 0;
+								position: absolute;
+								right: 5px;
+								top: 2px;
+
+								&:before {
+									@extend .buddypress_material_font_before;
+									content: "close";
+									
+									background: $red;
+									width: auto;
+									height: auto;
+								    border-radius: 50%;
+								    font-size: 12px;
+								    position: relative;
+								    top: 2.5px;
+								    padding: 2px;
+								}
+							}
+							a {
+								color: $dark_secondary_icon;
+							}
+						}
+					}
+
+					&:last-of-type {
+						width: 100%;
+					}
+				}
+			}
+		}
+
+	}
+
+	// Message Notices
+	table.messages-notices.sitewide-notices {
+		@media(max-width: 480px) {
+			display: block;
+			tbody {
+				display: block;
+				tr {
+					display: block;
+					width: 100%;
+					border-width: 0;
+					border-bottom-width: 1px;
+				}
+			}
+		}
+		tbody tr {
+			td {
+				@media(max-width: 480px) {
+					display: block;
+					width: 100%;
+					margin-bottom: 0;
+				}
+				&:first-of-type {
+					max-width: 0;
+    				padding: 0;
+
+					@media(max-width: 480px) {
+						display: none;
+					}
+				}
+				&:nth-child(2),
+				&:nth-child(3) {
+					width: 20%;
+
+					@media(max-width: 480px) {
+						width: 100%;
+						padding: 10px 20px;
+					}
+				}
+				&:nth-child(3),
+				&:nth-child(4) {
+					padding-left: 0;
+
+					@media(max-width: 480px) {
+						width: 100%;
+						padding: 10px 20px;
+					}
+				}
+				&:nth-child(4) {
+					@media(max-width: 480px) {
+						width: 100%;
+						padding: 10px 20px;
+					}
+
+					.button{
+						&:first-of-type {
+							min-width: 118.77px;
+							text-align: center;
+						}
+						&:nth-child(2) {
+					    	padding: 0 15px;
+						}
+					}
+				}
+			}
+		}
+	}
+
+}
+
+table#message-threads {
+	@media (max-width: 768px) {
+
+		th.thread-star,
+		th.thread-from,
+		th.thread-options,
+
+		td.thread-star,
+		td.thread-options {
+			display: none;
+		}
+	}
+}
+
+#message-recipients {
+	.button.confirm {
+		  clear: both;
+		  float: none;
+		  display: block;
+		  width: 95px;
+		  margin-top: 25px;
+	}
+}
+
+.messages #send-to-input {
+	display: block;
+	clear: both;
+}

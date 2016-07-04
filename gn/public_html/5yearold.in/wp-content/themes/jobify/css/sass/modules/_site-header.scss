@@ -1,0 +1,21 @@
+.site-header {
+    position: relative;
+    z-index: 200; // above google maps
+    box-shadow: inset rgba(0, 0, 0, .10) 0 -1px 0;
+
+    -webkit-transition: all 0.3s;
+    -moz-transition:    all 0.3s;
+    transition:         all 0.3s;
+
+    .container {
+        position: relative;
+        padding: 1.5em;
+
+		@include bp(lg) {
+			display: table;
+			width: 100%;
+			padding-left: 0;
+			padding-right: 0;
+		}
+    }
+}

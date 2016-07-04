@@ -1,0 +1,21 @@
+/*
+Theme Name: Thrive Child
+Theme URI: http://themeforest.net/item/thrive-intranet-wordpress-community-theme/12275020
+Description: Child Theme for Thrive WordPress Theme
+Author: Dunhakdis
+Author URI: http://themeforest.net/user/dunhakdis
+Template: thrive
+Version: 1.0.0
+*/
+
+
+@import url('../thrive/style.css');
+<?php if (function_exists('vote_poll') && !in_pollarchive()): ?>
+  <li>
+    <h2>Polls</h2>
+    <ul>
+      <li><?php get_poll();?></li>
+    </ul>
+    <?php display_polls_archive_link(); ?>
+  </li>
+<?php endif; ?>

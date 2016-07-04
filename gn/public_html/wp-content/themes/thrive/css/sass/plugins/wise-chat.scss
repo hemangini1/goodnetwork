@@ -1,0 +1,135 @@
+#thrive-wisechat-support {
+
+	position: fixed;
+    z-index: 4000;
+    bottom: 0;
+    right: 15px;
+
+    #thrive-chat-label {
+    	display: none;
+   	}
+
+   	#thrive-chat-icon {
+		float: left;
+		em {
+			font-style: normal;
+			font-size: 12px;
+			position: relative;
+			top: -5px;
+		}
+   	}
+
+   	.wcControlsButtonsIncluded a.wcAddImageAttachment {
+   		background: none;
+   		border: 0;
+   		cursor: pointer;
+   		&:before {
+			@extend .material_font_extend;
+			content: "camera";
+   			
+   			position: absolute;
+   			top: 2.25px;
+   			right: 0px;
+   			@extend .primary;
+   		}
+
+   	}
+
+    &.inactive {
+
+    	width: 250px;
+
+    	.wcContainer {
+    		display: none;
+    	}
+
+    	#thrive-wisechat-support-close-btn-icon {
+    		display: none;
+    	}
+
+    	#thrive-chat-label {
+    		display: block;
+    	}
+    }
+
+    .wcContainer {
+
+    	width: 250px;
+
+    	transition: all 0.25s ease-in-out;
+    	-webkit-transition: all 0.25s ease-in-out;
+    	-moz-transition: all 0.25s ease-in-out;
+
+    	&.wcUsersListIncluded {
+    		width: 350px;
+    	}
+    }
+
+    .wcContainer .wcUsersList {
+    	border: 0;
+    	padding: 5px 0;
+    	margin: 0;
+    	.wcCurrentUser {
+    		&:before {
+    			content: ".";
+    			text-indent: -9999px;
+    			height: 15px;
+    			width: 15px;
+    			background: green;
+    			border-radius: 50%;
+    			display: block;
+    			float: left;
+    			margin-right: 2.5px;
+    		}
+    	}
+    }
+
+    #thrive-wisechat-support-close-btn {
+    	@extend .bg-primary-700;
+    	color: $light;
+    	text-align: right;
+    	padding: 5px 5px;
+
+    	i {
+    		cursor: pointer;
+    	}
+    }
+
+    .wcContainer, .wcError {
+    	border-radius: 0;
+    	padding-top: 0;
+    }
+
+    .wcContainer .wcMessages {
+    	margin: 0;
+    }
+
+    .wcMessage .wcImage {
+    	display: block;
+    }
+
+    .wcControls {
+    	background: $light;
+    	border-width: 1px;
+    	border-style: solid;
+    	border-color: $dark_borders;
+    	border-top: 0;
+    	padding: 0 5px;
+
+    	.wcSubmitButton {
+    		padding: 5px;
+    		line-height: 1px;
+    		height: 30px;
+    		border-radius: 0;
+    		margin-right: -6px;
+    	}
+    }
+
+    .wcContainer input[type="text"],
+    .wcContainer input[type="password"],
+    .wcContainer textarea {
+    		border: none;
+    		margin-bottom: 0;
+    		line-height: 27.5px;
+    	}
+}

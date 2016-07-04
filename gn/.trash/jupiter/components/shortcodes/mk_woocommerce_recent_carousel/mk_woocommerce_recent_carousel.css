@@ -1,0 +1,48 @@
+.mk-swipe-slideshow .products .item {
+	float: none !important;
+    position: absolute !important;
+	display: inline-block;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.mk-woocommerce-carousel .the-title,
+.mk-woocommerce-carousel .product-title {
+    white-space: normal; 
+}
+
+.mk-woocommerce-carousel .mk-button-container {
+	margin-right: 0 !important;
+}
+
+@media handheld, only screen and (max-width: 767px) {
+	.mk-swipe-slideshow .mk-product-loop .products .mk--col--3-12, 
+	.mk-swipe-slideshow .mk-product-loop .products .mk--col--4-12 {
+	    width: 50% !important; 
+	}
+}
+
+@media handheld, only screen and (max-width: 600px) {
+	.mk-swipe-slideshow .mk-product-loop .products .mk--col--3-12, 
+	.mk-swipe-slideshow .mk-product-loop .products .mk--col--4-12, 
+	.mk-swipe-slideshow .mk-product-loop .products .mk--col--1-2 {
+	    width: 100% !important;
+	    max-width: none !important;
+	}
+}
+
+/* "Please don't ask me why baby" ~ Maki tune from "Monkeys do programmin" album */
+.mk-woocommerce-carousel .mk-button { white-space: nowrap; }
+.vc_col-sm-6 .mk-woocommerce-carousel .mk-button--icon,
+.vc_col-sm-5 .mk-woocommerce-carousel .mk-button--icon,
+.vc_col-sm-4 .mk-woocommerce-carousel .mk-button--icon,
+.vc_col-sm-3 .mk-woocommerce-carousel .mk-button--icon,
+.vc_col-sm-2 .mk-woocommerce-carousel .mk-button--icon,
+.vc_col-sm-1 .mk-woocommerce-carousel .mk-button--icon { display: none; }
+.vc_col-sm-6 .mk-woocommerce-carousel .mk-button--text,
+.vc_col-sm-5 .mk-woocommerce-carousel .mk-button--text,
+.vc_col-sm-4 .mk-woocommerce-carousel .mk-button--text,
+.vc_col-sm-3 .mk-woocommerce-carousel .mk-button--text,
+.vc_col-sm-2 .mk-woocommerce-carousel .mk-button--text,
+.vc_col-sm-1 .mk-woocommerce-carousel .mk-button--text { transform: translateX(0); }

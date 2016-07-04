@@ -1,0 +1,194 @@
+Return-path: <goodnk9o@md-in-51.webhostbox.net>
+Envelope-to: admin@goodnetwork.world
+Delivery-date: Fri, 29 Apr 2016 06:25:30 +0000
+Received: from goodnk9o by md-in-51.webhostbox.net with local (Exim 4.86_1)
+	(envelope-from <goodnk9o@md-in-51.webhostbox.net>)
+	id 1aw1rm-003yxL-3u
+	for admin@goodnetwork.world; Fri, 29 Apr 2016 06:25:30 +0000
+To: admin <admin@goodnetwork.world>
+Subject: [Good Network] You have an invitation to the group: "I Impact"
+X-PHP-Script: goodnetwork.world/index.php for 122.160.18.34
+X-PHP-Originating-Script: 912:class-phpmailer.php
+Date: Fri, 29 Apr 2016 06:25:30 +0000
+From: Good Network <hello@goodnetwork.world>
+Reply-To: Good Network <admin@goodnetwork.world>
+Message-ID: <8eab8d99d73ff4595cfafa2c3946debe@goodnetwork.world>
+X-Mailer: PHPMailer 5.2.14 (https://github.com/PHPMailer/PHPMailer)
+X-BuddyPress: 2.5.2
+X-BuddyPress-Type: groups-invitation
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_8eab8d99d73ff4595cfafa2c3946debe"
+Content-Transfer-Encoding: 8bit
+X-Authenticated_sender: Good Network <hello@goodnetwork.world>
+X-Authenticated_user: goodnk9o
+
+This is a multi-part message in MIME format.
+
+--b1_8eab8d99d73ff4595cfafa2c3946debe
+Content-Type: text/plain; charset=us-ascii
+
+Shobhit Srivastava has invited you to join the group: "I Impact".
+
+To accept your invitation, visit: https://goodnetwork.world/members/admin/groups/invites/
+
+To learn more about the group, visit https://goodnetwork.world/groups/i-impact/.
+To view Shobhit Srivastava's profile, visit: https://goodnetwork.world/members/shobhit/
+
+
+--b1_8eab8d99d73ff4595cfafa2c3946debe
+Content-Type: text/html; charset=us-ascii
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width"> <!-- Forcing initial-scale shouldn't be necessary -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"> <!-- Use the latest (edge) version of IE rendering engine -->
+
+	<!-- CSS Reset -->
+	<style type="text/css">
+		/* What it does: Remove spaces around the email design added by some email clients. */
+		/* Beware: It can remove the padding / margin and add a background color to the compose a reply window. */
+		html,
+		body {
+			Margin: 0 !important;
+			padding: 0 !important;
+			height: 100% !important;
+			width: 100% !important;
+		}
+
+		/* What it does: Stops email clients resizing small text. */
+		* {
+			-ms-text-size-adjust: 100%;
+			-webkit-text-size-adjust: 100%;
+		}
+
+		/* What it does: Forces Outlook.com to display emails full width. */
+		.ExternalClass {
+			width: 100%;
+		}
+
+		/* What is does: Centers email on Android 4.4 */
+		div[style*="margin: 16px 0"] {
+			margin: 0 !important;
+		}
+
+		/* What it does: Stops Outlook from adding extra spacing to tables. */
+		table,
+		td {
+			mso-table-lspace: 0pt !important;
+			mso-table-rspace: 0pt !important;
+		}
+
+		/* What it does: Fixes webkit padding issue. Fix for Yahoo mail table alignment bug. Applies table-layout to the first 2 tables then removes for anything nested deeper. */
+		table {
+			border-spacing: 0 !important;
+			border-collapse: collapse !important;
+			table-layout: fixed !important;
+			Margin: 0 auto !important;
+		}
+		table table table {
+			table-layout: auto;
+		}
+
+		/* What it does: Uses a better rendering method when resizing images in IE. */
+		/* & manages img max widths to ensure content body images don't exceed template width. */
+		img {
+			-ms-interpolation-mode:bicubic;
+			height: auto;
+			max-width: 100%;
+		}
+
+		/* What it does: Overrides styles added when Yahoo's auto-senses a link. */
+		.yshortcuts a {
+			border-bottom: none !important;
+		}
+
+		/* What it does: A work-around for iOS meddling in triggered links. */
+		a[x-apple-data-detectors] {
+			color: inherit !important;
+			text-decoration: underline !important;
+		}
+	</style>
+
+</head>
+<body class="email_bg" width="100%" height="100%" bgcolor="#F7F3F0" style="Margin: 0;">
+<table cellpadding="0" cellspacing="0" border="0" height="100%" width="100%" bgcolor="#F7F3F0" style="border-collapse:collapse;" class="email_bg"><tr><td valign="top">
+	<center style="width: 100%;">
+
+		<!-- Visually Hidden Preheader Text : BEGIN -->
+		<div style="display: none; font-size: 1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; mso-hide: all; font-family: sans-serif;">
+			
+		</div>
+		<!-- Visually Hidden Preheader Text : END -->
+
+		<div style="max-width: 600px;">
+			<!--[if (gte mso 9)|(IE)]>
+			<table cellspacing="0" cellpadding="0" border="0" width="600" align="center">
+			<tr>
+			<td>
+			<![endif]-->
+
+			<!-- Email Header : BEGIN -->
+			<table cellspacing="0" cellpadding="0" border="0" align="center" width="100%" style="max-width: 600px; border-top: 7px solid #D84800" bgcolor="#F7F3F0" class="header_bg">
+				<tr>
+					<td style="text-align: center; padding: 15px 0; font-family: sans-serif; mso-height-rule: exactly; font-weight: bold; color: #000000; font-size: 30px" class="header_text_color header_text_size">
+						Good Network					</td>
+				</tr>
+			</table>
+			<!-- Email Header : END -->
+
+			<!-- Email Body : BEGIN -->
+			<table cellspacing="0" cellpadding="0" border="0" align="center" bgcolor="#FFFFFF" width="100%" style="max-width: 600px; border-radius: 5px;" class="body_bg">
+
+				<!-- 1 Column Text : BEGIN -->
+				<tr>
+					<td>
+						<table cellspacing="0" cellpadding="0" border="0" width="100%">
+						  <tr>
+								<td style="padding: 20px; font-family: sans-serif; mso-height-rule: exactly; line-height: 24px; color: #555555; font-size: 15px" class="body_text_color body_text_size">
+									<span style="font-weight: bold; font-size: 20px" class="welcome">Hi admin,</span>
+									<hr color="#F7F3F0"><br>
+									<a style="color: #D84800;" href="https://goodnetwork.world/members/shobhit/">Shobhit Srivastava</a> has invited you to join the group: &quot;I Impact&quot;.<br />
+<a style="color: #D84800;" href="https://goodnetwork.world/members/admin/groups/invites/">Go here to accept your invitation</a> or <a style="color: #D84800;" href="https://goodnetwork.world/groups/i-impact/">visit the group</a> to learn more.
+								</td>
+						  </tr>
+						</table>
+					</td>
+				</tr>
+				<!-- 1 Column Text : BEGIN -->
+
+			</table>
+			<!-- Email Body : END -->
+
+			<!-- Email Footer : BEGIN -->
+			<br>
+			<table cellspacing="0" cellpadding="0" border="0" align="left" width="100%" style="max-width: 600px; border-radius: 5px;" bgcolor="#F7F3F0" class="footer_bg">
+				<tr>
+					<td style="padding: 20px; width: 100%; font-size: 12px; font-family: sans-serif; mso-height-rule: exactly; line-height: 19px; text-align: left; color: #525252;" class="footer_text_color footer_text_size">
+						
+						<span class="footer_text">&copy; 2016 Good Network</span>
+						<br><br>
+						<a href="https://goodnetwork.world/members/admin/settings/notifications/" style="color: #D84800;text-decoration: underline;">unsubscribe</a>
+
+											</td>
+				</tr>
+			</table>
+			<!-- Email Footer : END -->
+
+			<!--[if (gte mso 9)|(IE)]>
+			</td>
+			</tr>
+			</table>
+			<![endif]-->
+		</div>
+	</center>
+</td></tr></table>
+</body>
+</html>
+
+
+
+--b1_8eab8d99d73ff4595cfafa2c3946debe--
+

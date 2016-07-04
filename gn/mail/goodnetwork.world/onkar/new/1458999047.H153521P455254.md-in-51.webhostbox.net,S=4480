@@ -1,0 +1,84 @@
+Return-path: <mitalibhasin@gmail.com>
+Envelope-to: onkar@goodnetwork.world
+Delivery-date: Sat, 26 Mar 2016 13:30:47 +0000
+Received: from mail-ig0-f179.google.com ([209.85.213.179]:35100)
+	by md-in-51.webhostbox.net with esmtps (TLSv1.2:AES128-GCM-SHA256:128)
+	(Exim 4.86_1)
+	(envelope-from <mitalibhasin@gmail.com>)
+	id 1ajoIf-001u4h-IJ
+	for onkar@goodnetwork.world; Sat, 26 Mar 2016 13:30:47 +0000
+Received: by mail-ig0-f179.google.com with SMTP id cl4so26953420igb.0
+        for <onkar@goodnetwork.world>; Sat, 26 Mar 2016 06:30:26 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to;
+        bh=5ESObDlHHfvyUHx2m90W93G+bz34EpNXXUaWA8hTkHM=;
+        b=uZc6tCHsxN8jqPjICVRsfQTaB1OSv2+FFeEhVUpOiaumM2V2fNcTqEkuM6eLFIybC9
+         mHMYw2WuRC/EMEoipP9esifrcX0MVMdt2AuS00Q3W9FDrac+2prl461m+btsWgn7C8gO
+         vi6l1xgIb0BHyQOs2CxgF3eazA+d3W5hW6KEMRCK/Modo3sFUAAqrWkacXfTErDXLcJF
+         HDO9MlvXMc+PzFRyiGONhgJEP9qW9rEhU/vZr36JuAbEYj9QPJtWB7F1INBhQWdk8IFr
+         hdXRuHUqGycaVWZbw5J8NF6KIYopT4CDLYz/Hi1YG7nUVJZ6LDaWbzgKR1zUWCFiUuIl
+         eWtg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to;
+        bh=5ESObDlHHfvyUHx2m90W93G+bz34EpNXXUaWA8hTkHM=;
+        b=RXC/CyL5F54PIdveFuf5Q0FZYkwKOKglFZBsyb3YzYt5xK4svJNEIYMwtwqukSco6k
+         7k2eE04C+VJGOZGgbzxYr/eH9ZrciVvq2+0bq2ilEWP21UQGbIkNv3lVggh/s0RPwIlG
+         gd1YnBuJJYM8vpV2trSvwHG585tTeGuXuIbfPMo2UgBulBFmML+nGBk5TTJTbc2PjV8h
+         IpTU7KIVkAGe/kyxg4Wexei6fHmiH9/E/6uIIhQJHyCmv/FuLyd5HZLOkvbFZWHTxWvr
+         JK0JjqGGS6kXMALoZyO8gelLsoqZRst31F0zvJo64Ph7aFi9BswhPEPcRt7hcBD0WHCN
+         bP3A==
+X-Gm-Message-State: AD7BkJKFXXLkuiLjoHyaPIfgRMKAr8701ilnc6s9TP+P67nGYkQ0e95JWVZ3qMyegItvMUqqOt6Hyzb9faX1/A==
+MIME-Version: 1.0
+X-Received: by 10.50.154.10 with SMTP id vk10mr1519188igb.74.1458999003590;
+ Sat, 26 Mar 2016 06:30:03 -0700 (PDT)
+Received: by 10.64.33.19 with HTTP; Sat, 26 Mar 2016 06:30:03 -0700 (PDT)
+Date: Sat, 26 Mar 2016 19:00:03 +0530
+Message-ID: <CALQhDaQJ4x-=yu=L-etc2cJKvROhQmMNZYP7QGfHHKq6u9jg0w@mail.gmail.com>
+Subject: Marketing Titles: Open on Monday
+From: Mitali Bhasin <mitalibhasin@gmail.com>
+To: Onkar Khullar <onkar@iimpactindia.com>, onkar@goodnetwork.world
+Content-Type: multipart/alternative; boundary=047d7bd755c4563797052ef3ad29
+X-Authenticated_sender: 
+X-Spam-Status: No, score=-0.8
+X-Spam-Score: -7
+X-Spam-Bar: /
+X-Ham-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7, RCVD_IN_MSPIKE_H3=-0.01, RCVD_IN_MSPIKE_WL=-0.01, CMAE Analysis: v=2.1 cv=WOvTJCYR c=1 sm=0 tr=0 a=7OsogOcEt9IA:10 a=BttVdlCJ64o65A81ijkA:9 a=QEXdDO2ut3YA:10 a=snLgO0SYAjYA:10 a=Tc90F4pgCzQA:10 a=9nn9nqcPobIA:10
+ 
+ * -0.7 RCVD_IN_DNSWL_LOW RBL: Sender listed at http://www.dnswl.org/, low
+ *      trust
+ *      [209.85.213.179 listed in list.dnswl.org]
+ *  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+ *      (mitalibhasin[at]gmail.com)
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ * -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+ *       domain
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *      valid
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+ * -0.0 RCVD_IN_MSPIKE_H3 RBL: Good reputation (+3)
+ *      [209.85.213.179 listed in wl.mailspike.net]
+ * -0.0 RCVD_IN_MSPIKE_WL Mailspike good senders
+X-Spam-Flag: NO
+
+--047d7bd755c4563797052ef3ad29
+Content-Type: text/plain; charset=UTF-8
+
+http://www.forbes.com/sites/onmarketing/2013/01/02/10-surprising-marketing-job-titles-for-the-next-10-years/#336d54114469
+
+http://stuartjdavidson.com/social-media-job-titles/
+
+--047d7bd755c4563797052ef3ad29
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><a href=3D"http://www.forbes.com/sites/onmarketing/2013/01=
+/02/10-surprising-marketing-job-titles-for-the-next-10-years/#336d54114469"=
+>http://www.forbes.com/sites/onmarketing/2013/01/02/10-surprising-marketing=
+-job-titles-for-the-next-10-years/#336d54114469</a><br><div><br></div><div>=
+<a href=3D"http://stuartjdavidson.com/social-media-job-titles/">http://stua=
+rtjdavidson.com/social-media-job-titles/</a><br></div><div><br></div><div><=
+br></div></div>
+
+--047d7bd755c4563797052ef3ad29--

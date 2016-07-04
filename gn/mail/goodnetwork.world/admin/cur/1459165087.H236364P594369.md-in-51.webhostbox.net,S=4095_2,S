@@ -1,0 +1,85 @@
+Return-path: <01000153bd03982c-1e4d0b76-df93-4c3b-ba32-91775670a813-000000@amazonses.com>
+Envelope-to: admin@goodnetwork.world
+Delivery-date: Mon, 28 Mar 2016 11:38:07 +0000
+Received: from a8-76.smtp-out.amazonses.com ([54.240.8.76]:45678)
+	by md-in-51.webhostbox.net with esmtps (TLSv1:AES128-SHA:128)
+	(Exim 4.86_1)
+	(envelope-from <01000153bd03982c-1e4d0b76-df93-4c3b-ba32-91775670a813-000000@amazonses.com>)
+	id 1akVUj-002UIM-Ju
+	for admin@goodnetwork.world; Mon, 28 Mar 2016 11:38:07 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=qqjjzjb4fn7qp4knu5sp2q2kw4m6rfn7; d=iflychat.com; t=1459165042;
+	h=To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding:From:Message-Id:Date;
+	bh=uWyBbPhw9CfkwGONxnYeue6Aeg5eryW3DtbAzKSFigc=;
+	b=Z05kZcimXJLkMXdzBLOdiBH6U5p7szE/OMX6eTh7ZsG1z5FbYFC1sc1l4WF/LmVX
+	TPdIGR5RNbpG4XriwYKe4iQdMj6MtHA3bV9KshNB3/El/t5Ffn/gNccvhOCVzVW0xAX
+	PT3CZ73fvQ1fXrx5rKCuEfSTGwcNLuanYbWkJrbA=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=6gbrjpgwjskckoa6a5zn6fwqkn67xbtw; d=amazonses.com; t=1459165042;
+	h=To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding:From:Message-Id:Date:Feedback-ID;
+	bh=uWyBbPhw9CfkwGONxnYeue6Aeg5eryW3DtbAzKSFigc=;
+	b=exIw0bpA2+t6y3vngdOD2S8Uc0rWPcBLbhzPWgA4GYr4eXTulb5jJaRGaPWnbtHK
+	j/FitLdEogFu5nDhriki+5mfK0rHa0p/jdr6JvYGNmLXtCopn2V9U94zMTwwuRUgJ4j
+	c9+UbwdLzibCY5907NJw9YO35OUTrUA2yFMohM54=
+To: admin@goodnetwork.world
+Subject: Login Details - iFlyChat
+X-PHP-Script: iflychat.com/index.php for 171.48.41.117
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+From: noreply@iflychat.com
+Message-ID: <01000153bd03982c-1e4d0b76-df93-4c3b-ba32-91775670a813-000000@email.amazonses.com>
+Date: Mon, 28 Mar 2016 11:37:22 +0000
+X-SES-Outgoing: 2016.03.28-54.240.8.76
+Feedback-ID: 1.us-east-1.958wEPWTN2OjkZ0vuofR/314k0V0WPBvw7g3Rof+LEs=:AmazonSES
+X-Authenticated_sender: 
+X-Spam-Status: No, score=-1.8
+X-Spam-Score: -17
+X-Spam-Bar: -
+X-Ham-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HEADER_FROM_DIFFERENT_DOMAINS=0.001, RCVD_IN_DNSWL_LOW=-0.7, RCVD_IN_MSPIKE_H5=-1, RCVD_IN_MSPIKE_WL=-0.01, T_RP_MATCHES_RCVD=-0.01, CMAE Analysis: v=2.1 cv=WOvTJCYR c=1 sm=0 tr=0 a=orl2V2GCUVxBCGUdojJOYg==:17 a=IkcTkHD0fZMA:10 a=kjKRoX-24QEA:10 a=7OsogOcEt9IA:10 a=LfgxSA6XC6gA:10 a=Lr4rEF7k6eL_nr9wDScA:9 a=lAGt2Fli-kjeh9rR:21 a=rrLTrMivT042Djjs:21 a=QEXdDO2ut3YA:10
+ 
+ *  0.0 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level mail
+ *      domains are different
+ * -0.0 T_RP_MATCHES_RCVD Envelope sender domain matches handover relay
+ *      domain
+ * -0.7 RCVD_IN_DNSWL_LOW RBL: Sender listed at http://www.dnswl.org/, low
+ *      trust
+ *      [54.240.8.76 listed in list.dnswl.org]
+ * -1.0 RCVD_IN_MSPIKE_H5 RBL: Excellent reputation (+5)
+ *      [54.240.8.76 listed in wl.mailspike.net]
+ * -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+ *       domain
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *      valid
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+ * -0.0 RCVD_IN_MSPIKE_WL Mailspike good senders
+X-Spam-Flag: NO
+
+Hi good_network,
+
+Thank you for registering at iFlyChat. You may now log in by clicking this
+link or copying and pasting it to your browser:
+
+https://iflychat.com/user/reset/45486/1459165040/gqVionXx1KZzJU8K-1cXkfYa-Xalj9m-TGsKmVcWVNw
+
+This link can only be used once to log in and will lead you to a page where
+you can set your password.
+
+After setting your password, you will be able to log in at
+https://iflychat.com/user in the future using:
+
+username: good_network
+password: Your password
+
+To install iFlyChat into your website, please follow our installation guide:
+https://iflychat.com/installation. Additionally you would need an API key
+after installing chat into your website which may be generated here:
+https://iflychat.com/iflyapi/index.
+
+In case you have any further queries, please create a support ticket here:
+https://iflychat.com/contact.
+
+Sincerely,
+iFlyChat Team
+

@@ -1,0 +1,21 @@
+ul.job_listings .job-manager-applications-applied-notice::before,
+.single_job_listing .job-manager-applications-applied-notice::before {
+	@extend .ion;
+	content: $ionicon-var-checkmark;
+	font-size: 20px;
+	margin: -2px 10px 0 0;
+	vertical-align: middle;
+}
+
+.single_job_listing .job-manager-applications-applied-notice {
+	@extend .jobify-alert;
+	@extend .jobify-alert--success;
+
+	margin-bottom: 0;
+	display: inline-block;
+}
+
+// ew
+.jobify_widget_jobs ul.job_listings .job-manager-applications-applied-notice {
+	display: none;
+}

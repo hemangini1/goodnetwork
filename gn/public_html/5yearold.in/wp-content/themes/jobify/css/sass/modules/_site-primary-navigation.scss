@@ -1,0 +1,16 @@
+.site-primary-navigation {
+	margin-top: 2em;
+	display: none;
+
+	@include bp(lg) {
+		margin-top: 0;
+		display: table-cell;
+		vertical-align: middle;
+		text-align: right;
+		width: 75%;
+	}
+}
+
+.site-primary-navigation--open {
+	display: block;
+}

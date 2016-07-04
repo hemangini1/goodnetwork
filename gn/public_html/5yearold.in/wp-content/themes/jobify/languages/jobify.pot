@@ -1,0 +1,2464 @@
+# Copyright (C) 2016 Astoundify
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Jobify 3.1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2016-04-29 13:14:49+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.4.9\n"
+
+#: 404.php:12
+msgid "Page Not Found"
+msgstr ""
+
+#: archive-job_listing.php:12
+msgid "All Jobs"
+msgstr ""
+
+#: archive-resume.php:12 resume-filters-flat.php:14
+msgid "All Resumes"
+msgstr ""
+
+#: archive-testimonial.php:12
+msgid "Testimonials"
+msgstr ""
+
+#: archive.php:14
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:16
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:18
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:21
+msgid "Author: %s"
+msgstr ""
+
+#: archive.php:26
+msgid "Blog Archives"
+msgstr ""
+
+#: comments.php:43
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:44
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:45
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:50
+msgid "Comments are closed."
+msgstr ""
+
+#: content-grid.php:28 content-single.php:25 content.php:24
+msgid "0 Comments"
+msgstr ""
+
+#: content-grid.php:28 content-single.php:25 content.php:24
+msgid "1 Comment"
+msgstr ""
+
+#: content-grid.php:28 content-single.php:25 content.php:24
+msgid "% Comments"
+msgstr ""
+
+#: content-grid.php:38 content.php:38
+msgid "Continue Reading"
+msgstr ""
+
+#: content-imported-job-listing.php:26 content-job_listing.php:25
+msgid "%s ago"
+msgstr ""
+
+#: content-none.php:14
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:18
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: content-none.php:23
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-resume.php:21 content-single-resume.php:28
+msgid "Updated %s ago"
+msgstr ""
+
+#: content-single-job-related.php:42
+msgid "Related Jobs"
+msgstr ""
+
+#: content-single-job_listing-meta.php:20
+msgid "Posted %s ago"
+msgstr ""
+
+#: content-single-job_listing-meta.php:23
+msgid "This position has been filled"
+msgstr ""
+
+#: content-single-job_listing-meta.php:25
+msgid "Applications have closed"
+msgstr ""
+
+#: content-single-job_listing.php:31
+msgid "This job listing has expired"
+msgstr ""
+
+#: content-single-job_listing.php:38
+msgid "Overview"
+msgstr ""
+
+#: content-single-job_listing.php:44 single-company.php:27
+msgid "About %s"
+msgstr ""
+
+#: content-single-resume.php:46
+#: inc/customizer/panels/class-customizer-panel-footer.php:27
+#: inc/integrations/testimonials/widgets/class-widget-companies.php:33
+msgid "Description"
+msgstr ""
+
+#: content-single-resume.php:56
+msgid "Skills"
+msgstr ""
+
+#: content-single-resume.php:64
+msgid "Education"
+msgstr ""
+
+#: content-single-resume.php:85
+msgid "Experience"
+msgstr ""
+
+#: content-single.php:17 content.php:16
+msgid ""
+"Written by <a class=\"author-link entry-author__link\" href=\"%s\" "
+"rel=\"author\">%s</a>"
+msgstr ""
+
+#: content-single.php:46
+msgid "Tags:"
+msgstr ""
+
+#: content-single.php:48
+msgid "Pages:"
+msgstr ""
+
+#: footer.php:60
+msgid "Back to Top"
+msgstr ""
+
+#: form-fields/file-field.php:30 inc/widgets/class-widget.php:200
+msgid "Choose Image"
+msgstr ""
+
+#: form-fields/file-field.php:32
+msgid "Choose File"
+msgstr ""
+
+#: form-fields/file-field.php:41
+msgid "Maximum file size: %s."
+msgstr ""
+
+#: functions.php:173
+msgid "Navigation Menu"
+msgstr ""
+
+#: functions.php:174
+msgid "Footer Social"
+msgstr ""
+
+#: header.php:34
+msgid "Close"
+msgstr ""
+
+#: header.php:51
+msgid "Menu"
+msgstr ""
+
+#: inc/class-deprecated.php:21
+msgid "Please install <a href=\"%s\">WooCommerce</a> to use a custom login form."
+msgstr ""
+
+#: inc/class-deprecated.php:33
+msgid ""
+"Please install <a href=\"%s\">WooCommerce</a> to use a custom registration "
+"form. Enable the registration form in \"WooCommerce &rarr; Settings &rarr; "
+"Accounts\""
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-colors.php:14
+msgid "Colors"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-colors.php:23
+#: inc/customizer/panels/class-customizer-panel-layout.php:19
+#: inc/customizer/panels/class-customizer-panel-typography.php:39
+msgid "Global"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-colors.php:26
+msgid "Primary Color"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-colors.php:30
+msgid "Accent Color"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-colors.php:34
+msgid "Body Text Color"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-colors.php:38
+msgid "Link Text Color"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-colors.php:44
+msgid "Header/Navigation"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-colors.php:47
+msgid "Navigation Text Color"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-colors.php:51
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-colors.php:57
+#: inc/customizer/panels/class-customizer-panel-footer.php:20
+msgid "Call to Action"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-colors.php:60
+msgid "Call to Action Text Color"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-colors.php:64
+msgid "Call to Action Background Color"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-colors.php:70
+msgid "Footer Widgets"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-colors.php:73
+msgid "Footer Widgets Title Color"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-colors.php:77
+msgid "Footer Widgets Link Color"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-colors.php:81
+msgid "Footer Widgets Text Color"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-colors.php:85
+msgid "Footer Widgets Background Color"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-colors.php:91
+#: inc/customizer/panels/class-customizer-panel-footer.php:33
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-colors.php:94
+msgid "Copyright Link Color"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-colors.php:98
+msgid "Copyright Text Color"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-colors.php:102
+msgid "Copyright Background Color"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-colors.php:118
+msgid "Page Background Color"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-footer.php:13
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-footer.php:23
+msgid "Display this section"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-footer.php:36
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-general.php:14
+msgid "General"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-general.php:25
+#: inc/customizer/panels/class-customizer-panel-general.php:61
+msgid "Site Logo & Header"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-general.php:28
+#: inc/customizer/panels/class-customizer-panel-layout.php:45
+msgid "Fixed Header"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-general.php:34
+msgid "Accounts"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-general.php:41
+msgid "Available Registration Roles"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-general.php:44
+msgid ""
+"If no roles are selected, the default in \"Job Listings > Settings\" will "
+"be used and no role field will be shown on the registration form."
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-general.php:47
+msgid "Default Role Selection"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-general.php:50
+msgid "The role which is selected in the dropdown by default."
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-general.php:66
+msgid "Site Logo"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-general.php:72
+msgid "Homepage Display"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-layout.php:13
+msgid "Content"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-layout.php:22
+msgid "Content Box & Widget Style"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-layout.php:25
+#: inc/customizer/panels/class-customizer-panel-layout.php:34
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-layout.php:26
+msgid "Minimal"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-layout.php:27
+msgid "Shadow"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-layout.php:31
+msgid "Button Style"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-layout.php:35
+msgid "Solid"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-layout.php:36
+msgid "Outline"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-layout.php:42
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-layout.php:55
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-layout.php:58
+msgid "Blog Sidebar Position"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-layout.php:61
+#: inc/customizer/panels/class-customizer-panel-nav_menus.php:38
+#: inc/widgets/_widgets/class-widget-feature-callout.php:64
+msgid "None"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-layout.php:62
+#: inc/widgets/_widgets/class-widget-feature-callout.php:29
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-layout.php:63
+#: inc/widgets/_widgets/class-widget-feature-callout.php:30
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-nav_menus.php:13
+msgid "Menus & Navigation"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-nav_menus.php:21
+msgid "Settings"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-nav_menus.php:24
+msgid "Display cart icon"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-nav_menus.php:28
+msgid "Display search icon"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-nav_menus.php:32
+msgid "Display secondary menu"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-nav_menus.php:36
+msgid "Secondary Mega Menu Taxonomy"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-style-kits.php:13
+#: inc/customizer/panels/class-customizer-panel-style-kits.php:22
+msgid "Style Kit"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-typography.php:12
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-typography.php:19
+#: inc/customizer/panels/class-customizer-panel-typography.php:22
+msgid "Font Pack"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-typography.php:28
+#: inc/customizer/panels/class-customizer-panel-typography.php:31
+msgid "Font Subset"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-typography.php:34
+msgid ""
+"Please note not all subsets are available for each font family. <a "
+"href=\"https://www.google.com/fonts\">Read more</a>."
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-typography.php:43
+msgid "Page Headings"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-typography.php:47
+msgid "Content Box Headings"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-typography.php:51
+msgid "Homepage Widget Headings"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-typography.php:55
+msgid "Homepage Widget Descriptions"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-typography.php:59
+msgid "Buttons"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-typography.php:70
+msgid "Font Family"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-typography.php:72
+msgid "Loading..."
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-typography.php:75
+msgid "Font Size"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-typography.php:84
+msgid "Font Weight"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-typography.php:87
+msgid "Normal"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-typography.php:88
+msgid "Bold"
+msgstr ""
+
+#: inc/customizer/panels/class-customizer-panel-typography.php:92
+msgid "Line Height (em)"
+msgstr ""
+
+#: inc/integrations/restrict-content-pro/class-restrict-content-pro.php:62
+msgid "Subscription Level Visibility:"
+msgstr ""
+
+#: inc/integrations/restrict-content-pro/widgets/class-widget-price-table-rcp.php:13
+msgid "Outputs subscription options for Restrict Content Pro"
+msgstr ""
+
+#: inc/integrations/restrict-content-pro/widgets/class-widget-price-table-rcp.php:15
+msgid "Jobify - Home: RCP Price Table"
+msgstr ""
+
+#: inc/integrations/restrict-content-pro/widgets/class-widget-price-table-rcp.php:18
+#: inc/integrations/testimonials/widgets/class-widget-companies.php:21
+#: inc/integrations/testimonials/widgets/class-widget-testimonials.php:21
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-map.php:19
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-recent.php:19
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-search.php:16
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-spotlight.php:19
+#: inc/integrations/wp-job-manager/widgets/class-widget-search-hero.php:21
+#: inc/integrations/wp-job-manager-resumes/widgets/class-widget-resumes-map.php:19
+#: inc/integrations/wp-job-manager-resumes/widgets/class-widget-resumes-recent.php:19
+#: inc/integrations/wp-job-manager-wc-paid-listings/widgets/class-widget-price-table.php:18
+#: inc/widgets/_widgets/class-widget-blog-posts.php:16
+#: inc/widgets/_widgets/class-widget-callout.php:19
+#: inc/widgets/_widgets/class-widget-feature-callout.php:21
+#: inc/widgets/_widgets/class-widget-slider-generic.php:19
+#: inc/widgets/_widgets/class-widget-stats.php:16
+#: inc/widgets/_widgets/class-widget-video.php:19
+msgid "Homepage"
+msgstr ""
+
+#: inc/integrations/restrict-content-pro/widgets/class-widget-price-table-rcp.php:23
+#: inc/integrations/wp-job-manager-wc-paid-listings/widgets/class-widget-price-table.php:23
+#: inc/widgets/_widgets/class-widget-price-table.php:17
+msgid "Plans and Pricing"
+msgstr ""
+
+#: inc/integrations/restrict-content-pro/widgets/class-widget-price-table-rcp.php:24
+#: inc/integrations/testimonials/widgets/class-widget-testimonials.php:27
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-apply.php:22
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-categories.php:22
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-company-logo.php:22
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-company-social.php:22
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-location.php:22
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-more-jobs.php:22
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-share.php:22
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-type.php:22
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-recent.php:25
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-search.php:22
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-spotlight.php:25
+#: inc/integrations/wp-job-manager/widgets/class-widget-search-hero.php:47
+#: inc/integrations/wp-job-manager-application-deadline/widgets/class-widget-job-deadline.php:22
+#: inc/integrations/wp-job-manager-products/widgets/class-widget-products.php:24
+#: inc/integrations/wp-job-manager-resumes/widgets/class-widget-resume-categories.php:25
+#: inc/integrations/wp-job-manager-resumes/widgets/class-widget-resume-file.php:22
+#: inc/integrations/wp-job-manager-resumes/widgets/class-widget-resume-links.php:22
+#: inc/integrations/wp-job-manager-resumes/widgets/class-widget-resume-skills.php:22
+#: inc/integrations/wp-job-manager-resumes/widgets/class-widget-resumes-recent.php:25
+#: inc/integrations/wp-job-manager-tags/widgets/class-widget-job-tags.php:22
+#: inc/integrations/wp-job-manager-wc-paid-listings/widgets/class-widget-price-table.php:24
+#: inc/widgets/_widgets/class-widget-blog-posts.php:22
+#: inc/widgets/_widgets/class-widget-feature-callout.php:97
+#: inc/widgets/_widgets/class-widget-price-option.php:18
+#: inc/widgets/_widgets/class-widget-price-table.php:18
+#: inc/widgets/_widgets/class-widget-stats.php:22
+#: inc/widgets/_widgets/class-widget-video.php:25
+msgid "Title:"
+msgstr ""
+
+#: inc/integrations/restrict-content-pro/widgets/class-widget-price-table-rcp.php:30
+#: inc/integrations/testimonials/widgets/class-widget-testimonials.php:33
+#: inc/integrations/wp-job-manager/widgets/class-widget-search-hero.php:52
+#: inc/integrations/wp-job-manager-wc-paid-listings/widgets/class-widget-price-table.php:39
+#: inc/widgets/_widgets/class-widget-blog-posts.php:28
+#: inc/widgets/_widgets/class-widget-callout.php:26
+#: inc/widgets/_widgets/class-widget-price-option.php:29
+#: inc/widgets/_widgets/class-widget-price-table.php:24
+#: inc/widgets/_widgets/class-widget-stats.php:29
+#: inc/widgets/_widgets/class-widget-video.php:31
+msgid "Description:"
+msgstr ""
+
+#: inc/integrations/restrict-content-pro/widgets/class-widget-price-table-rcp.php:73
+msgid "free"
+msgstr ""
+
+#: inc/integrations/restrict-content-pro/widgets/class-widget-price-table-rcp.php:75
+#: inc/integrations/wp-job-manager-wc-paid-listings/widgets/class-widget-price-table.php:89
+#: inc/integrations/wp-job-manager-wc-paid-listings/widgets/class-widget-price-table.php:94
+msgid "unlimited"
+msgstr ""
+
+#: inc/integrations/restrict-content-pro/widgets/class-widget-price-table-rcp.php:79
+#: inc/integrations/wp-job-manager-wc-paid-listings/widgets/class-widget-price-table.php:104
+msgid "Get Started"
+msgstr ""
+
+#: inc/integrations/soliloquy/widgets/class-widget-slider-content.php:16
+msgid "Display a Soliloquy slider with captions."
+msgstr ""
+
+#: inc/integrations/soliloquy/widgets/class-widget-slider-content.php:18
+msgid "Jobify - Home: Solioquy Content Slider"
+msgstr ""
+
+#: inc/integrations/soliloquy/widgets/class-widget-slider-content.php:22
+#: inc/integrations/soliloquy/widgets/class-widget-slider-hero.php:20
+msgid "Slider:"
+msgstr ""
+
+#: inc/integrations/soliloquy/widgets/class-widget-slider-content.php:28
+msgid "Background Image URL:"
+msgstr ""
+
+#: inc/integrations/soliloquy/widgets/class-widget-slider-hero.php:14
+msgid "Display a \"Hero\" Soliloquy slider."
+msgstr ""
+
+#: inc/integrations/soliloquy/widgets/class-widget-slider-hero.php:16
+msgid "Jobify - Home: Solioquy Hero Slider"
+msgstr ""
+
+#: inc/integrations/testimonials/widgets/class-widget-companies.php:16
+msgid "Display a slider of company logos you have helped find jobs."
+msgstr ""
+
+#: inc/integrations/testimonials/widgets/class-widget-companies.php:18
+msgid "Jobify - Home: Companies Helped"
+msgstr ""
+
+#: inc/integrations/testimonials/widgets/class-widget-companies.php:26
+msgid "Companies We&#39;ve Helped"
+msgstr ""
+
+#: inc/integrations/testimonials/widgets/class-widget-companies.php:27
+msgid "Title"
+msgstr ""
+
+#: inc/integrations/testimonials/widgets/class-widget-companies.php:41
+msgid "Number of companies to show."
+msgstr ""
+
+#: inc/integrations/testimonials/widgets/class-widget-companies.php:45
+msgid ""
+"Assign <a href=\"%s\">Testimonials</a> to the <a href=\"%s\">Company</a> "
+"category."
+msgstr ""
+
+#: inc/integrations/testimonials/widgets/class-widget-testimonials.php:16
+msgid "Display a slider of all the people you have helped."
+msgstr ""
+
+#: inc/integrations/testimonials/widgets/class-widget-testimonials.php:18
+msgid "Jobify - Home: Testimonials"
+msgstr ""
+
+#: inc/integrations/testimonials/widgets/class-widget-testimonials.php:26
+msgid "Kind Words From Happy Campers"
+msgstr ""
+
+#: inc/integrations/testimonials/widgets/class-widget-testimonials.php:41
+msgid "Number of testimonials:"
+msgstr ""
+
+#: inc/integrations/testimonials/widgets/class-widget-testimonials.php:46
+#: inc/integrations/wp-job-manager/widgets/class-widget-search-hero.php:58
+msgid "Background Image:"
+msgstr ""
+
+#: inc/integrations/testimonials/widgets/class-widget-testimonials.php:50
+msgid ""
+"Assign <a href=\"%s\">Testimonials</a> to the <a href=\"%s\">Individual</a> "
+"category."
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:334
+#: inc/setup/steps/install-plugins.php:15
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:335
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:337
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:342
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:347
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:352
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:357
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:362
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:367
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:372
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:377
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:382
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:392
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:399
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:3034
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:400
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2837
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:401
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:402
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:403
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:524
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:525
+msgid "Update Required"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:639
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:833
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:3443
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:940
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:940
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:943
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:943
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2172
+msgid "Required"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2175
+msgid "Recommended"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2191
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2194
+msgid "External Source"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2197
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2214
+msgid "Not Installed"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2218
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2220
+msgid "Active"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2226
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2229
+msgid "Requires Update"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2232
+msgid "Update recommended"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2288
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2291
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2294
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2384
+msgid "Installed version:"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2392
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2404
+msgid "Available version:"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2427
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2441
+msgid "Plugin"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2442
+msgid "Source"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2443
+msgid "Type"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2447
+msgid "Version"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2448
+msgid "Status"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2575
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2608
+msgid "Install"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2614
+msgid "Update"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2617
+msgid "Activate"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2648
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2650
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2686
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2688
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2793
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2819
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:3033
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:3367
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:3369
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:3370
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:3374
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:3375
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:3375
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:3381
+msgid "Show Details"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:3375
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:3381
+msgid "Hide Details"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:3376
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:3377
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:3380
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:3381
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:3382
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:3383
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/integrations/woocommerce/class-woocommerce-layout.php:76
+msgid "Shop"
+msgstr ""
+
+#: inc/integrations/woocommerce/class-woocommerce-registration.php:106
+msgid "Register As"
+msgstr ""
+
+#: inc/integrations/woocommerce/class-woocommerce-template.php:86
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-map.php:35
+msgid "%s at %s"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-map.php:40
+msgid "%s - %s"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-map.php:92
+msgid "%d Found"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-map.php:138
+msgid "within a %d mile radius"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-submission.php:24
+#: inc/integrations/wp-job-manager/class-wp-job-manager-submission.php:44
+msgid "Featured Image"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-submission.php:25
+#: inc/integrations/wp-job-manager/class-wp-job-manager-submission.php:45
+msgid "Used for the Job Spotlight display"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-template.php:128
+msgid "Job Page Sidebar"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-template.php:130
+msgid "Choose what should display on single job listings."
+msgstr ""
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-template.php:141
+msgid "Job Widget Column %s"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-template.php:143
+msgid "Choose what should display on single job listings column #%s."
+msgstr ""
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager.php:168
+msgid "Facebook username"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager.php:171
+#: inc/integrations/wp-job-manager/class-wp-job-manager.php:179
+#: inc/integrations/wp-job-manager/class-wp-job-manager.php:187
+msgid "yourcompany"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager.php:176
+msgid "Google+ username"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager.php:184
+msgid "LinkedIn username"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager.php:226
+msgid "Company Description"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager.php:232
+msgid "Company Facebook"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager.php:237
+msgid "Company Google+"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager.php:242
+msgid "Company LinkedIn"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager.php:278
+#: searchform-header.php:4 searchform.php:4
+#: woocommerce/product-searchform.php:4
+msgid "Search"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/customizer/panels/class-customizer-panel-listings.php:14
+msgid "Jobs & Resumes"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/customizer/panels/class-customizer-panel-listings.php:14
+#: inc/integrations/wp-job-manager/customizer/panels/class-customizer-panel-listings.php:21
+#: inc/integrations/wp-job-manager/widgets/class-widget-search-hero.php:91
+#: inc/widgets/_widgets/class-widget-stats.php:36
+msgid "Jobs"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/customizer/panels/class-customizer-panel-listings.php:24
+#: inc/integrations/wp-job-manager/customizer/panels/class-customizer-panel-listings.php:49
+msgid "Widget Area Location"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/customizer/panels/class-customizer-panel-listings.php:27
+#: inc/integrations/wp-job-manager/customizer/panels/class-customizer-panel-listings.php:52
+msgid "Top"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/customizer/panels/class-customizer-panel-listings.php:28
+#: inc/integrations/wp-job-manager/customizer/panels/class-customizer-panel-listings.php:53
+#: inc/widgets/class-widgets.php:35
+msgid "Sidebar"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/customizer/panels/class-customizer-panel-listings.php:32
+#: inc/integrations/wp-job-manager/customizer/panels/class-customizer-panel-listings.php:57
+msgid "Top Widget Area Columns"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/customizer/panels/class-customizer-panel-listings.php:37
+#: inc/integrations/wp-job-manager/customizer/panels/class-customizer-panel-listings.php:62
+msgid "Address Format"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/customizer/panels/class-customizer-panel-listings.php:38
+#: inc/integrations/wp-job-manager/customizer/panels/class-customizer-panel-listings.php:63
+msgid ""
+"Choose between {address_1}, {address_2}, {postcode}, {city}, {state}, "
+"{state_code}, {country}. Leave empty to use location as entered."
+msgstr ""
+
+#: inc/integrations/wp-job-manager/customizer/panels/class-customizer-panel-listings.php:46
+#: inc/integrations/wp-job-manager/widgets/class-widget-search-hero.php:92
+#: inc/widgets/_widgets/class-widget-stats.php:40
+msgid "Resumes"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/customizer/panels/class-customizer-panel-listings.php:70
+msgid "Map Settings"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/customizer/panels/class-customizer-panel-listings.php:73
+msgid "Google Maps API Key (optional)"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/customizer/panels/class-customizer-panel-listings.php:76
+msgid "Info Bubble Trigger"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/customizer/panels/class-customizer-panel-listings.php:79
+msgid "Hover"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/customizer/panels/class-customizer-panel-listings.php:80
+msgid "Click"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/customizer/panels/class-customizer-panel-listings.php:84
+msgid "Use Clusters"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/customizer/panels/class-customizer-panel-listings.php:88
+msgid "Cluster Grid Size (px)"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/customizer/panels/class-customizer-panel-listings.php:91
+msgid "Autofit on load"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/customizer/panels/class-customizer-panel-listings.php:95
+msgid "Default Center Coordinate"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/customizer/panels/class-customizer-panel-listings.php:98
+msgid "Default Zoom Level"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/customizer/panels/class-customizer-panel-listings.php:103
+msgid "Max Zoom In Level"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/customizer/panels/class-customizer-panel-listings.php:108
+msgid "Max Zoom Out Level"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/customizer/panels/class-customizer-panel-listings.php:113
+msgid "Zoom with Scrollwheel"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-apply.php:11
+msgid "Display the job/resume action buttons"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-apply.php:13
+msgid "Jobify - Job/Resume: Actions"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-apply.php:16
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-company-logo.php:16
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-more-jobs.php:16
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-share.php:16
+msgid "Job or Resume"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-apply.php:53
+msgid "Watch Video"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-apply.php:75
+msgid "Video Resume"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-categories.php:11
+msgid "Display the job's categories"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-categories.php:13
+msgid "Jobify - Job: Categories"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-categories.php:16
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-company-social.php:16
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-location.php:16
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-type.php:16
+#: inc/integrations/wp-job-manager-application-deadline/widgets/class-widget-job-deadline.php:16
+#: inc/integrations/wp-job-manager-products/widgets/class-widget-products.php:18
+#: inc/integrations/wp-job-manager-tags/widgets/class-widget-job-tags.php:16
+msgid "Job"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-company-logo.php:11
+msgid "Display the company logo or resume picture"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-company-logo.php:13
+msgid "Jobify - Job/Resume: Logo"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-company-social.php:11
+msgid "Display the job's company social profiles"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-company-social.php:13
+msgid "Jobify - Job: Company Social"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-company-social.php:48
+#: single-company.php:62
+msgid "Website"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-company-social.php:54
+#: single-company.php:68
+msgid "Twitter"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-company-social.php:60
+#: single-company.php:74
+msgid "Facebook"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-company-social.php:66
+#: single-company.php:80
+msgid "Google+"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-company-social.php:72
+#: single-company.php:86
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-location.php:11
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-type.php:11
+msgid "Display the job type"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-location.php:13
+msgid "Jobify - Job: Location"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-more-jobs.php:11
+msgid "Display a link to more jobs from the company"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-more-jobs.php:13
+msgid "Jobify - Job: Company Listings"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-more-jobs.php:49
+msgid "More jobs by %s"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-more-jobs.php:50
+msgid "More Jobs"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-share.php:11
+msgid "Display job/resume sharing options"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-share.php:13
+msgid "Jobify - Job/Resume: Share"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-type.php:13
+msgid "Jobify - Job: Type"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-map.php:14
+msgid "Display a map with pins indicating areas with active job listings."
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-map.php:16
+msgid "Jobify - Home: Jobs Map"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-map.php:24
+#: inc/integrations/wp-job-manager-resumes/widgets/class-widget-resumes-map.php:24
+msgid "Show search filters"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-recent.php:14
+msgid "Output a list of recent jobs."
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-recent.php:16
+msgid "Jobify - Home: Recent Jobs"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-recent.php:24
+msgid "Recent Jobs"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-recent.php:30
+msgid "Show Filters"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-recent.php:38
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-spotlight.php:33
+msgid "Number of jobs to show:"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-recent.php:43
+msgid "Display the \"Job Spotlight\" section"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-recent.php:47
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-recent.php:73
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-spotlight.php:24
+msgid "Job Spotlight"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-recent.php:48
+msgid "Spotlight Title:"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-search.php:11
+msgid "Output search options to search jobs."
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-search.php:13
+msgid "Jobify - Home: Jobs Search"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-search.php:21
+msgid "Search Jobs"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-spotlight.php:14
+msgid "Output a grid of spotlighted jobs."
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-spotlight.php:16
+msgid "Jobify - Home: Jobs Spotlight"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-search-hero.php:12
+msgid "Display a \"hero\" search area."
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-search-hero.php:15
+msgid "Jobify - Home: Search Hero"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-search-hero.php:27
+msgid "Hero Height"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-search-hero.php:29
+msgid "Small"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-search-hero.php:30
+msgid "Medium"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-search-hero.php:31
+msgid "Large"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-search-hero.php:37
+#: inc/widgets/_widgets/class-widget-feature-callout.php:82
+msgid "Add standard spacing above/below widget"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-search-hero.php:42
+#: inc/widgets/_widgets/class-widget-feature-callout.php:87
+msgid "Text Color:"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-search-hero.php:63
+#: inc/widgets/_widgets/class-widget-feature-callout.php:46
+msgid "Image Position:"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-search-hero.php:65
+#: inc/widgets/_widgets/class-widget-feature-callout.php:48
+msgid "Left Top"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-search-hero.php:66
+#: inc/widgets/_widgets/class-widget-feature-callout.php:49
+msgid "Left Center"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-search-hero.php:67
+#: inc/widgets/_widgets/class-widget-feature-callout.php:50
+msgid "Left Bottom"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-search-hero.php:68
+#: inc/widgets/_widgets/class-widget-feature-callout.php:51
+msgid "Right Top"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-search-hero.php:69
+#: inc/widgets/_widgets/class-widget-feature-callout.php:52
+msgid "Right Center"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-search-hero.php:70
+#: inc/widgets/_widgets/class-widget-feature-callout.php:53
+msgid "Right Bottom"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-search-hero.php:71
+#: inc/integrations/wp-job-manager/widgets/class-widget-search-hero.php:74
+#: inc/widgets/_widgets/class-widget-feature-callout.php:54
+#: inc/widgets/_widgets/class-widget-feature-callout.php:57
+msgid "Center Top"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-search-hero.php:72
+#: inc/widgets/_widgets/class-widget-feature-callout.php:55
+msgid "Center Center"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-search-hero.php:73
+#: inc/widgets/_widgets/class-widget-feature-callout.php:56
+msgid "Center Bottom"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-search-hero.php:80
+msgid "Use transparent overlay"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-search-hero.php:89
+msgid "Search:"
+msgstr ""
+
+#: inc/integrations/wp-job-manager-application-deadline/widgets/class-widget-job-deadline.php:11
+msgid "Display the job application deadline"
+msgstr ""
+
+#: inc/integrations/wp-job-manager-application-deadline/widgets/class-widget-job-deadline.php:13
+msgid "Jobify - Job: Application Deadline"
+msgstr ""
+
+#: inc/integrations/wp-job-manager-application-deadline/widgets/class-widget-job-deadline.php:53
+msgid "M j, Y"
+msgstr ""
+
+#: inc/integrations/wp-job-manager-applications/class-wp-job-manager-applications.php:20
+msgid "Apply"
+msgstr ""
+
+#: inc/integrations/wp-job-manager-contact-listing/class-wp-job-manager-contact-listing.php:44
+msgid "Apply for Job"
+msgstr ""
+
+#: inc/integrations/wp-job-manager-contact-listing/class-wp-job-manager-contact-listing.php:46
+msgid "Contact Candidate"
+msgstr ""
+
+#: inc/integrations/wp-job-manager-products/widgets/class-widget-products.php:13
+msgid "Output products linked to this listing."
+msgstr ""
+
+#: inc/integrations/wp-job-manager-products/widgets/class-widget-products.php:15
+msgid "Jobify - Job: Products"
+msgstr ""
+
+#: inc/integrations/wp-job-manager-resumes/class-wp-job-manager-resumes-template.php:178
+msgid "Resume Page Sidebar"
+msgstr ""
+
+#: inc/integrations/wp-job-manager-resumes/class-wp-job-manager-resumes-template.php:180
+msgid "Choose what should display on single resume listings."
+msgstr ""
+
+#: inc/integrations/wp-job-manager-resumes/class-wp-job-manager-resumes-template.php:191
+msgid "Resume Widget Column %s"
+msgstr ""
+
+#: inc/integrations/wp-job-manager-resumes/class-wp-job-manager-resumes-template.php:193
+msgid "Choose what should display on resume listings column #%s."
+msgstr ""
+
+#: inc/integrations/wp-job-manager-resumes/widgets/class-widget-resume-categories.php:14
+msgid "Display the resume's categories"
+msgstr ""
+
+#: inc/integrations/wp-job-manager-resumes/widgets/class-widget-resume-categories.php:16
+msgid "Jobify - Resume: Categories"
+msgstr ""
+
+#: inc/integrations/wp-job-manager-resumes/widgets/class-widget-resume-categories.php:19
+#: inc/integrations/wp-job-manager-resumes/widgets/class-widget-resume-file.php:16
+#: inc/integrations/wp-job-manager-resumes/widgets/class-widget-resume-links.php:16
+#: inc/integrations/wp-job-manager-resumes/widgets/class-widget-resume-skills.php:16
+msgid "Resume"
+msgstr ""
+
+#: inc/integrations/wp-job-manager-resumes/widgets/class-widget-resume-file.php:11
+msgid "Display the resume's file"
+msgstr ""
+
+#: inc/integrations/wp-job-manager-resumes/widgets/class-widget-resume-file.php:13
+msgid "Jobify - Resume: File"
+msgstr ""
+
+#: inc/integrations/wp-job-manager-resumes/widgets/class-widget-resume-file.php:49
+msgid "Resume.%s"
+msgstr ""
+
+#: inc/integrations/wp-job-manager-resumes/widgets/class-widget-resume-links.php:11
+msgid "Display the resume's links"
+msgstr ""
+
+#: inc/integrations/wp-job-manager-resumes/widgets/class-widget-resume-links.php:13
+msgid "Jobify - Resume: Links"
+msgstr ""
+
+#: inc/integrations/wp-job-manager-resumes/widgets/class-widget-resume-skills.php:11
+msgid "Display the resume's skills"
+msgstr ""
+
+#: inc/integrations/wp-job-manager-resumes/widgets/class-widget-resume-skills.php:13
+msgid "Jobify - Resume: Skills"
+msgstr ""
+
+#: inc/integrations/wp-job-manager-resumes/widgets/class-widget-resumes-map.php:14
+msgid "Display a map with pins indicating areas with active resume listings."
+msgstr ""
+
+#: inc/integrations/wp-job-manager-resumes/widgets/class-widget-resumes-map.php:16
+msgid "Jobify - Home: Resumes Map"
+msgstr ""
+
+#: inc/integrations/wp-job-manager-resumes/widgets/class-widget-resumes-recent.php:14
+msgid "Output a list of recent resumes."
+msgstr ""
+
+#: inc/integrations/wp-job-manager-resumes/widgets/class-widget-resumes-recent.php:16
+msgid "Jobify - Home: Recent Resumes"
+msgstr ""
+
+#: inc/integrations/wp-job-manager-resumes/widgets/class-widget-resumes-recent.php:33
+msgid "Number of resumes to show:"
+msgstr ""
+
+#: inc/integrations/wp-job-manager-tags/widgets/class-widget-job-tags.php:11
+msgid "Display the job's tags"
+msgstr ""
+
+#: inc/integrations/wp-job-manager-tags/widgets/class-widget-job-tags.php:13
+msgid "Jobify - Job: Tags"
+msgstr ""
+
+#: inc/integrations/wp-job-manager-wc-paid-listings/widgets/class-widget-price-table.php:13
+msgid "Outputs Job Packages from WooCommerce"
+msgstr ""
+
+#: inc/integrations/wp-job-manager-wc-paid-listings/widgets/class-widget-price-table.php:15
+msgid "Jobify - Home: WC Paid Listings"
+msgstr ""
+
+#: inc/integrations/wp-job-manager-wc-paid-listings/widgets/class-widget-price-table.php:27
+msgid "Package Type:"
+msgstr ""
+
+#: inc/integrations/wp-job-manager-wc-paid-listings/widgets/class-widget-price-table.php:31
+msgid "Job Packages"
+msgstr ""
+
+#: inc/integrations/wp-job-manager-wc-paid-listings/widgets/class-widget-price-table.php:32
+msgid "Resume Packages"
+msgstr ""
+
+#: inc/integrations/wp-job-manager-wc-paid-listings/widgets/class-widget-price-table.php:89
+msgid "%s for %s job"
+msgid_plural "%s for %s jobs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/integrations/wp-job-manager-wc-paid-listings/widgets/class-widget-price-table.php:91
+#: inc/integrations/wp-job-manager-wc-paid-listings/widgets/class-widget-price-table.php:96
+msgid "for %s day"
+msgid_plural "for %s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/integrations/wp-job-manager-wc-paid-listings/widgets/class-widget-price-table.php:94
+msgid "%s to post %d resume"
+msgid_plural "%s to post %s resumes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/setup/class-setup.php:85
+msgid "Install Required &amp; Recommended Plugins"
+msgstr ""
+
+#: inc/setup/class-setup.php:89
+msgid "Import Demo Content"
+msgstr ""
+
+#: inc/setup/class-setup.php:93
+msgid "Import Widgets"
+msgstr ""
+
+#: inc/setup/class-setup.php:97
+msgid "Setup Menus"
+msgstr ""
+
+#: inc/setup/class-setup.php:101
+msgid "Setup Static Homepage"
+msgstr ""
+
+#: inc/setup/class-setup.php:105
+msgid "Setup Widgets"
+msgstr ""
+
+#: inc/setup/class-setup.php:109 inc/setup/steps/customize-theme.php:3
+msgid "Customize"
+msgstr ""
+
+#: inc/setup/class-setup.php:113
+msgid "Get Involved"
+msgstr ""
+
+#: inc/setup/class-setup.php:144
+msgid "Jobify Setup"
+msgstr ""
+
+#: inc/setup/class-setup.php:144
+msgid "Setup Guide"
+msgstr ""
+
+#: inc/setup/class-setup.php:174
+msgid "Completed!"
+msgstr ""
+
+#: inc/setup/class-setup.php:176
+msgid "Incomplete"
+msgstr ""
+
+#: inc/setup/class-setup.php:193
+msgid "Welcome to Jobify %s"
+msgstr ""
+
+#: inc/setup/class-setup.php:194
+msgid ""
+"Creating a job listing website has never been easier with Jobify — the "
+"easiest to use job board theme available. Use the steps below to finish "
+"setting up your new website. If you have more questions please <a "
+"href=\"%s\">review the documentation</a>."
+msgstr ""
+
+#: inc/setup/class-setup.php:198
+msgid "Search Documentation"
+msgstr ""
+
+#: inc/setup/class-setup.php:199
+msgid "Submit a Support Ticket"
+msgstr ""
+
+#: inc/setup/steps/child-theme.php:1
+msgid ""
+"While optional, using a child theme with Jobify allows an easy way to "
+"customize your website without having to worry about changes being "
+"overwritten when you update in the future"
+msgstr ""
+
+#: inc/setup/steps/child-theme.php:3
+msgid ""
+"To edit these included files you can visit <strong>Appearance &rarr; "
+"Editor</strong> in your WordPress dashboard. You may also edit the files by "
+"accessing your web server via FTP."
+msgstr ""
+
+#: inc/setup/steps/child-theme.php:5
+msgid "Create and Activate a Child Theme"
+msgstr ""
+
+#: inc/setup/steps/customize-theme.php:1
+msgid ""
+"Manage the appearance and behavior of various theme components with the "
+"live customizer."
+msgstr ""
+
+#: inc/setup/steps/customize-theme.php:7 inc/setup/steps/import-content.php:13
+#: inc/setup/steps/import-widgets.php:11 inc/setup/steps/install-plugins.php:19
+#: inc/setup/steps/setup-homepage.php:11 inc/setup/steps/setup-widgets.php:7
+msgid "For more help regarding this step, please see"
+msgstr ""
+
+#: inc/setup/steps/customize-theme.php:10 inc/setup/steps/import-content.php:16
+#: inc/setup/steps/import-widgets.php:14 inc/setup/steps/install-plugins.php:22
+#: inc/setup/steps/setup-homepage.php:14 inc/setup/steps/setup-widgets.php:10
+msgid "Full Documentation"
+msgstr ""
+
+#: inc/setup/steps/customize-theme.php:11
+msgid "Create a Child Theme"
+msgstr ""
+
+#: inc/setup/steps/customize-theme.php:12
+msgid "Customization"
+msgstr ""
+
+#: inc/setup/steps/import-content.php:5
+msgid ""
+"Installing the demo content is not required to use this theme. It is simply "
+"meant to provide a way to get a feel for the theme without having to "
+"manually set up all of your own content. <strong>If you choose not to "
+"import the demo content you need to make sure you manually create all "
+"necessary page templates for your website."
+msgstr ""
+
+#: inc/setup/steps/import-content.php:7
+msgid ""
+"The Jobify theme package includes multiple demo content .XML files. This is "
+"what you will upload to the WordPress importer. Depending on the plugins "
+"you have activated or the intended use of your website you may not need to "
+"upload all .XML files."
+msgstr ""
+
+#: inc/setup/steps/import-content.php:9
+msgid "Begin Importing Content"
+msgstr ""
+
+#: inc/setup/steps/import-content.php:17
+msgid "Install Demo Content"
+msgstr ""
+
+#: inc/setup/steps/import-content.php:18
+msgid "Import Content (Codex)"
+msgstr ""
+
+#: inc/setup/steps/import-content.php:19
+msgid "WordPress Importer"
+msgstr ""
+
+#: inc/setup/steps/import-widgets.php:5
+msgid ""
+"Importing the demo widgets is not required to use this theme. It simply "
+"allows you to quickly match the same settings found on our theme demo. If "
+"you do not import the widgets you can manually manage your widgets just "
+"like a standard WordPress widget area."
+msgstr ""
+
+#: inc/setup/steps/import-widgets.php:7
+msgid "Begin Importing Widgets"
+msgstr ""
+
+#: inc/setup/steps/import-widgets.php:15 inc/setup/steps/setup-widgets.php:11
+msgid "Widgets"
+msgstr ""
+
+#: inc/setup/steps/install-plugins.php:5
+msgid ""
+"Before you can use Jobify you must first install WP Job Manager and "
+"WooCommerce. You can read about <a "
+"href=\"http://jobify.astoundify.com/article/260-why-does-this-theme-require-"
+"plugins\">why this theme requires plugins</a> in our documentation."
+msgstr ""
+
+#: inc/setup/steps/install-plugins.php:7
+msgid "Note:"
+msgstr ""
+
+#: inc/setup/steps/install-plugins.php:9
+msgid ""
+"When installing WP Job Manager and WooCommerce <strong>do not</strong> use "
+"the automatic setup andinstall the recommended pages. This will be done "
+"automatically when you import the demo XML."
+msgstr ""
+
+#: inc/setup/steps/install-plugins.php:10
+msgid ""
+"<strong>Only free plugins/add-ons can be installed automatically.</strong> "
+"You will need to install any premium\tplugins/add-ons separately."
+msgstr ""
+
+#: inc/setup/steps/install-plugins.php:11
+msgid ""
+"It is recommended you install and activate any additional plugins you plan "
+"on using before importing any XML content."
+msgstr ""
+
+#: inc/setup/steps/install-plugins.php:12
+msgid ""
+"<strong>Once your plugins are installed</strong> and content is imported "
+"please review all plugin settings pages to make sure everything has been "
+"properly set up."
+msgstr ""
+
+#: inc/setup/steps/install-plugins.php:25
+msgid "Bulk Install"
+msgstr ""
+
+#: inc/setup/steps/setup-homepage.php:5
+msgid ""
+"In order to display custom widgets on your homepage you must first assign "
+"your static page in the WordPress settings. You can also set which page "
+"will display your blog posts."
+msgstr ""
+
+#: inc/setup/steps/setup-homepage.php:7 inc/setup/steps/setup-homepage.php:16
+msgid "Reading Settings"
+msgstr ""
+
+#: inc/setup/steps/setup-homepage.php:15
+msgid "Create Your Homepage"
+msgstr ""
+
+#: inc/setup/steps/setup-menus.php:5
+msgid ""
+"Make sure you create and assign your menus to the menu locations found in "
+"the theme."
+msgstr ""
+
+#: inc/setup/steps/setup-menus.php:7
+msgid "Manage Menus"
+msgstr ""
+
+#: inc/setup/steps/setup-widgets.php:1
+msgid ""
+"Manage your widgets to control what displays on your homepage, listing "
+"pages, standard pages, and more."
+msgstr ""
+
+#: inc/setup/steps/setup-widgets.php:3
+msgid "Manage Widgets"
+msgstr ""
+
+#: inc/setup/steps/support-us.php:1
+msgid ""
+"Help improve Jobify by submitting a rating and helping to translate the "
+"theme to as many languages as possible!"
+msgstr ""
+
+#: inc/setup/steps/support-us.php:4
+msgid "Leave a Positive Review"
+msgstr ""
+
+#: inc/setup/steps/support-us.php:5
+msgid "Contribute Your Translation"
+msgstr ""
+
+#: inc/template/class-template-comments.php:25
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template/class-template-comments.php:25
+#: inc/template/class-template-comments.php:46
+msgid "Edit"
+msgstr ""
+
+#: inc/template/class-template-comments.php:48
+msgid "Reply"
+msgstr ""
+
+#: inc/template/class-template-comments.php:53
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template/class-template-pagination.php:11
+msgid "Next Page"
+msgstr ""
+
+#: inc/template/class-template-pagination.php:12
+msgid "Previous Page"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-blog-posts.php:11
+msgid "Jobify - Display recent blog posts."
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-blog-posts.php:13
+msgid "Jobify - Home: Blog Posts"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-blog-posts.php:21
+msgid "Recent News Article"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-blog-posts.php:33
+msgid "Number to show:"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-callout.php:14
+msgid "Display call-out area with a bit of text and a button."
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-callout.php:16
+msgid "Jobify - Home: Callout"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-callout.php:31
+msgid "Button Label:"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-callout.php:36
+msgid "Button URL:"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-feature-callout.php:12
+msgid "Display a full-width \"feature\" callout"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-feature-callout.php:15
+msgid "Jobify - Home: Feature Callout"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-feature-callout.php:27
+msgid "Text Align:"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-feature-callout.php:31
+msgid "Center (cover only)"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-feature-callout.php:37
+msgid "Image Style:"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-feature-callout.php:39
+msgid "Cover"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-feature-callout.php:40
+msgid "Pull Out"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-feature-callout.php:65
+msgid "Full Overlay"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-feature-callout.php:66
+msgid "Left Gradient"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-feature-callout.php:67
+msgid "Right Gradient"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-feature-callout.php:69
+msgid "Transparent Overlay"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-feature-callout.php:77
+msgid "Overlay Transparency"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-feature-callout.php:92
+msgid "Background Color:"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-feature-callout.php:102
+msgid "Content:"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-feature-callout.php:108
+msgid "Image:"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-price-option.php:11
+msgid "Create a price option for the pricing table."
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-price-option.php:13
+msgid "Jobify - Home: Price Option"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-price-option.php:17
+msgid "Basic Listing"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-price-option.php:23
+msgid "Color:"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-price-table.php:11
+msgid "Output the price table (based on the \"Price Table\" widget area)"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-price-table.php:13
+msgid "Jobify - Home: Price Table"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-price-table.php:28
+msgid ""
+"Drag \"Price Option\" widgets to the \"Price Table\" widget area to "
+"populate this widget."
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-slider-generic.php:14
+msgid "Display any slider that supports shortcodes."
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-slider-generic.php:16
+msgid "Jobify - Home: Slider"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-slider-generic.php:25
+msgid "Slider Shortcode"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-stats.php:11
+msgid "Display useful statistics about your website."
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-stats.php:13
+msgid "Jobify - Home: Stats"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-stats.php:21
+msgid "Site Stats"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-stats.php:33
+msgid "Stats to Show:"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-stats.php:37
+msgid "Positions Filled"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-stats.php:38
+msgid "Companies"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-stats.php:39
+msgid "Users"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-stats.php:127
+msgid "Job Posted"
+msgid_plural "Jobs Posted"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/widgets/_widgets/class-widget-stats.php:130
+msgid "Resume Posted"
+msgid_plural "Resumes Posted"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/widgets/_widgets/class-widget-stats.php:133
+msgid "Job Filled"
+msgid_plural "Jobs Filled"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/widgets/_widgets/class-widget-stats.php:136
+msgid "Company"
+msgid_plural "Companies"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/widgets/_widgets/class-widget-stats.php:139
+msgid "Member"
+msgid_plural "Members"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/widgets/_widgets/class-widget-video.php:14
+msgid "Display a video via oEmbed with a title and description."
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-video.php:16
+msgid "Jobify - Home: Video"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-video.php:24
+msgid "How it Works"
+msgstr ""
+
+#: inc/widgets/_widgets/class-widget-video.php:36
+msgid "Video URL:"
+msgstr ""
+
+#: inc/widgets/class-widget.php:98
+msgid "Only for use in the <strong>%s</strong> widget area."
+msgstr ""
+
+#: inc/widgets/class-widgetized-pages.php:29
+msgid "Page: %s"
+msgstr ""
+
+#: inc/widgets/class-widgetized-pages.php:30
+msgid "Widgets that appear on the \"%s\" page."
+msgstr ""
+
+#: inc/widgets/class-widgets.php:37
+msgid "Choose what should display on blog pages."
+msgstr ""
+
+#: inc/widgets/class-widgets.php:45
+msgid "Homepage Widget Area"
+msgstr ""
+
+#: inc/widgets/class-widgets.php:47
+msgid "Choose what should display on the custom static homepage."
+msgstr ""
+
+#: inc/widgets/class-widgets.php:57
+msgid "Footer Widget Area Column %d"
+msgstr ""
+
+#: inc/widgets/class-widgets.php:59
+msgid "Choose what should display in this footer widget column."
+msgstr ""
+
+#: inc/widgets/class-widgets.php:74
+msgid "Price Table"
+msgstr ""
+
+#: inc/widgets/class-widgets.php:76
+msgid ""
+"Drag multiple \"Price Option\" widgets here. Then drag the \"Pricing "
+"Table\" widget to the \"Homepage Widget Area\"."
+msgstr ""
+
+#: job-filters-flat.php:29 job-filters-flat.php:30 resume-filters-flat.php:13
+msgid "Keywords"
+msgstr ""
+
+#: job-filters-flat.php:34 job-filters-flat.php:35 resume-filters-flat.php:18
+msgid "Location"
+msgstr ""
+
+#: job-filters-flat.php:41 resume-filters-flat.php:25
+#: sidebar-single-job_listing-top.php:40
+msgid "Category"
+msgstr ""
+
+#: job-filters-flat.php:42 resume-filters-flat.php:26
+msgid "Any category"
+msgstr ""
+
+#: resume-filters-flat.php:19
+msgid "Any Location"
+msgstr ""
+
+#: searchform-header.php:2 searchform.php:2
+#: woocommerce/product-searchform.php:2
+msgid "Search for"
+msgstr ""
+
+#: searchform-header.php:3 searchform.php:3
+#: woocommerce/product-searchform.php:3
+msgid "Keywords..."
+msgstr ""
+
+#: sidebar-shop.php:16
+msgid "Recent Products"
+msgstr ""
+
+#: sidebar-single-job_listing-top.php:43
+msgid "Tags"
+msgstr ""
+
+#: sidebar-single-job_listing-top.php:47
+msgid "Share This"
+msgstr ""
+
+#: sidebar-single-job_listing-top.php:60 single-company.php:55
+msgid "Company Details"
+msgstr ""
+
+#: sidebar-single-job_listing.php:30
+msgid "Company Social"
+msgstr ""
+
+#: sidebar-single-resume-top.php:40
+msgid "Share Resume"
+msgstr ""
+
+#: sidebar-single-resume-top.php:43
+msgid "Candidate Skills"
+msgstr ""
+
+#: sidebar-single-resume-top.php:47
+msgid "Candidate Resume"
+msgstr ""
+
+#: sidebar-single-resume-top.php:60
+msgid "Candidate Details"
+msgstr ""
+
+#: single-company.php:15
+msgid "Jobs at %s"
+msgstr ""
+
+#: single-company.php:17
+msgid "%d Job Available"
+msgid_plural "%d Jobs Available"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Theme Name of the plugin/theme
+msgid "Jobify"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid ""
+"http://themeforest.net/item/jobify-wordpress-job-board-theme/5247604?ref="
+"Astoundify"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Creating a job listing website has never been easier with Jobify — the "
+"easiest to use job board theme available. Create a community of employers "
+"and prospective employees."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Astoundify"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Layout: Full Width"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page: Home"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Jobs: Map & Results"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Resumes: Map & Results"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Layout: Sidebar"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Resumes: Pricing Plans"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Jobs: Pricing Plans"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Layout: Single Column"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page: Widgetized"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page: Testimonials"
+msgstr ""
+
+#: archive.php:16
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:18
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: comments.php:22
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:1121
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2833
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:1886
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2240
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2285
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2376
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2496
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2500
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/integrations/tgmpa/class-tgm-plugin-activation.php:2505
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager.php:160
+msgctxt "company description on submission form"
+msgid "Description"
+msgstr ""
+
+#: inc/template/class-template-assets.php:88
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/template/class-template-assets.php:89
+msgctxt "Varela Round font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/template/class-template-comments.php:39
+msgctxt "comment author \"on\" date"
+msgid "on"
+msgstr ""
+
+#: inc/template/class-template-comments.php:44
+msgctxt "on 1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: index.php:12
+msgctxt "blog page title"
+msgid "Blog"
+msgstr ""

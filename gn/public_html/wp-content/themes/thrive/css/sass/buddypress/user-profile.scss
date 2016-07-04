@@ -1,0 +1,406 @@
+// User Profile General
+.bp-user {
+
+	.entry-content {
+		#buddypress {
+		}
+	}
+	.entry-header h1 {
+		display: none;
+	}
+
+	#item-body {
+
+		// Message
+		#message-thread {
+
+			img.avatar {
+				margin-right: 15px;
+				position: relative;
+				top: 5px;
+			}
+			.message-metadata {
+				@include caption();
+
+				.message-star-actions {
+					display: inline-block;
+					position: relative;
+					top: 5px;
+				}
+			}
+
+			.message-content {
+				padding: 0 50px;
+			}
+		}
+
+		.thread-from {
+			width: 25%;
+
+			img.avatar {
+				width: 25%;
+				display: block;
+				border-radius: 50%;
+				position: absolute;
+				left: 0;
+				@media(max-width: 768px) {
+					display: none;
+				}
+			}
+			.message-from {
+				width: 100%;
+
+				@media(max-width: 768px) {
+					width: auto;
+					float: left;
+				}
+			}
+			.total-and-unread-count {
+				width: 100%;
+
+				@media(max-width: 768px) {
+					width: auto;
+					float: right;
+				}
+			}
+			.thread-count {
+				@media(max-width: 768px) {
+					margin-left: 15px;
+				    display: inline-block;
+				}
+			}
+			.activity {
+				display: block;
+
+				@media(max-width: 768px) {
+					display: none;
+				}
+			}
+		}
+
+		.thread-info {
+		    width: 45%;
+			@media(max-width: 768px) {
+				width: 100%;
+				display: block;
+			    float: left;
+			    margin-bottom: 0;
+			}
+
+			p {
+				@include caption();
+				margin-bottom: 10px;
+			}
+			p.thread-excerpt {
+				font-weight: normal;
+			}
+		}
+		th.thread-info {
+			@media(max-width: 768px) {
+				display: table-cell;
+			    float: none;
+			    font-size: 1em;
+			}
+		}
+
+		.message-search {
+			margin-bottom: 35px;
+		}
+
+		th .message-action-star {
+			opacity: 0;
+		}
+
+		.message-action-unstar {
+			&:before {
+				@extend .buddypress_material_font_before;
+				content: "star";
+
+				color: $yellow;
+			}
+			.bp-screen-reader-text {
+				display: none;
+			}
+		}
+
+		.message-action-star {
+			&:before {
+				@extend .buddypress_material_font_before;
+				content: "star_outline";
+				
+				color: $yellow;
+			}
+			.bp-screen-reader-text {
+				display: none;
+			}
+		}
+
+		// Notifications
+		#notifications-bulk-management {
+			.notifications {
+				@media(max-width: 480px){
+					display: block;
+					tr {
+						width: 100%;
+					    display: block;
+						float: left;
+						border-width: 0;
+						border-bottom-width: 1px;
+						&:hover {
+							background: none;
+						}
+					}
+				}
+
+				thead {
+					@media(max-width: 768px){
+						th{
+							font-size: 1em;
+						}
+					}
+
+					@media(max-width: 480px){
+
+						.date,
+						.actions {
+							display: none;
+						}
+					}
+
+					.bulk-select-all {
+					    padding: 10px 20px;
+					}
+				}
+				tbody {
+					tr {
+						@media(max-width: 480px){
+							padding: 10px 0 10px 55px;
+							position: relative;
+
+							.bulk-select-check {
+								position: absolute;
+								top: 0;
+								left: 0;
+							}
+						}
+
+						td {
+							&.notification-description,
+							&.notification-since,
+							&.notification-actions {
+								padding-left: 5px;
+
+								@media(max-width: 480px){
+									width: 100%;
+								    display: block;
+								    float: left;
+								    padding: 0 20px 0 5px;
+								    margin-bottom: 5px;
+								}
+							}
+						}
+					}
+
+				}
+			}
+		}
+
+		// Profile Setting
+		.notification-settings {
+			@media(max-width: 480px) {
+				width: 100%;
+				display: block;
+				float: left;
+
+				thead {
+					display: block;
+				    width: 100%;
+					th {
+						&:nth-child(1),
+						&.yes,
+						&.no {
+							display: none;
+						}
+					}
+				}
+				tr {
+					width: 100%;
+					display: block;
+					float: left;
+				    padding-left: 10px;
+					border-width: 0;
+					border-bottom-width: 1px;
+					&:hover {
+						background: none;
+					}
+				}
+			}
+			tbody {
+				@media(max-width: 480px) {
+					display: block;
+				    width: 100%;
+
+					tr{
+						padding-left: 15px;
+					}
+				}
+				td {
+					@media(max-width: 480px) {
+						display: block;
+					    width: 100%;
+
+						&:nth-child(1) {
+							display: none;
+						}
+					}
+
+					&:nth-child(2) {
+						padding-left: 5px;
+					    width: 40%;
+						@media(max-width: 480px) {
+							width: 100%;
+							padding-left: 0;
+							margin-bottom: 5px;
+						}
+					}
+					&.yes,
+					&.no {
+						padding: 0 10px 0 5px;
+					    width: 25%;
+					    position: relative;
+					    text-indent: 5px;
+
+						@media(max-width: 480px) {
+							width: 50%;
+							padding-left: 0;
+							float: left;
+						}
+						input[type=radio]{
+    						float: left;
+						}
+						label {
+							display: inline-block;
+						    margin: 0;
+						}
+					}
+
+				}
+			}
+		}
+
+		.profile-settings {
+			@media(max-width: 480px) {
+				width: 100%;
+				display: block;
+				float: left;
+
+				tr {
+					width: 100%;
+					display: block;
+					float: left;
+				    padding-left: 10px;
+					border-width: 0;
+					border-bottom-width: 1px;
+					&:hover {
+						background: none;
+					}
+				}
+			}
+
+			.field-name {
+				width: 25%;
+			}
+			thead {
+				@media(max-width: 480px) {
+					display: block;
+				    width: 100%;
+				}
+				tr {
+					th {
+						padding-left: 20px;
+
+						@media(max-width: 480px) {
+							&:nth-child(2) {
+								display: none;
+							}
+						}
+					}
+				}
+			}
+			tbody {
+				@media(max-width: 480px) {
+					display: block;
+				    width: 100%;
+				}
+				tr {
+					td {
+						@media(max-width: 480px) {
+							width: 100%;
+							display: block;
+							float: left;
+							margin-bottom: 0;
+
+							&.field-name{
+								width: 100%;
+							}
+							&.field-visibility {
+								padding-top: 0;
+							}
+						}
+
+						label {
+							width: auto;
+							float: left;
+							margin-right: 15px;
+
+							@media(max-width: 480px) {
+								margin: 0 15px 0 0;
+							}
+						}
+						select {
+							width: auto;
+							float: left;
+						    margin: 0.75em 0;
+
+							@media(max-width: 480px) {
+								margin: 0;
+							}
+						}
+					}
+				}
+			}
+		}
+
+		// Profile
+		.profile{
+
+
+			ul.button-nav {
+				padding-left: 0;
+				display: inline-block;
+				margin-bottom: -5px;
+
+				li {
+					list-style: none;
+					float: left;
+					margin-right: 20px;
+					&.current a {
+						@extend .primary;
+						border-bottom: 2px solid $primary;
+					}
+					a {
+						padding: 10px 20px 10px 0;
+						border-bottom: 2px solid $dark_secondary_icon;
+						@include caption();
+						text-transform: uppercase;
+						&:hover {
+							@extend .primary;
+							border-bottom: 2px solid $primary;
+						}
+					}
+				}
+			}
+		}
+
+	} // end #item-body
+}

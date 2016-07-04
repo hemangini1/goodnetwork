@@ -1,0 +1,76 @@
+// Activity Post Form
+.buddypress #buddypress form#whats-new-form #whats-new-options select
+{
+	border: 0 none;
+	border-bottom: 2px solid $dark_borders;
+	font-size: 14px;
+	padding: 0;
+	padding-right: 20px;
+	max-width: 150px;
+}
+
+.buddypress #buddypress form#whats-new-form textarea {
+	min-height: 0;
+
+}
+
+.buddypress #item-body #whats-new-form{
+
+	margin-bottom: 20px;
+	padding: 0 15px;
+
+ 	#whats-new-avatar {
+
+		float: left;
+ 		width: 100%;
+		position: relative;
+		top: 10px;
+
+		img.avatar{
+			width: 45px;
+			max-width: none;
+			margin-left: -5px;
+		}
+
+	}
+
+	#whats-new-content {
+		@media (max-width: 768px) {
+			.material_icons {
+				display: none;
+			}
+		}
+		select {
+			@media (max-width: 768px) {
+				display: block;
+			}
+		}
+		#aw-whats-new-submit {
+			float: right;
+
+			@media (max-width: 768px) {
+				float: none;
+				display: inline-block;
+				clear: both;
+				margin: 0;
+				position: absolute;
+				right: 15px;
+			}
+			@media (max-width: 480px) {
+				float: right;
+				display: inline-block;
+			    clear: none;
+				margin: 0;
+			}
+		}
+	}
+
+	#whats-new-textarea textarea {
+		min-height: 50px!important; //prevent buddypress from adjusting the height of our textarea to 20px;
+	}
+
+	#whats-new-options {
+		min-height: 50px!important; //prevent rtmedia.
+		margin-bottom: 0;
+	}
+}

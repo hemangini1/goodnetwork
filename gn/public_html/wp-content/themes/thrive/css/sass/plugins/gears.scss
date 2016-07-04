@@ -1,0 +1,165 @@
+body {
+
+	.gears-carousel-standard {
+		opacity: 0;
+		margin-bottom: 25px;
+	}
+
+	#admin-only-bcp-cover-photo-settings {
+
+		color: $light_secondary;
+		@extend .bg-primary;
+		background-image: none;
+		padding: 10px 10px 10px 39px;
+    	margin-bottom: 20px;
+		border-radius: 4px;
+		font-size: 14px;
+	    position: relative;
+
+		label {
+			margin: 0;
+			input[type="checkbox"] {
+				position: absolute;
+			    left: 15px;
+			    top: 8px;
+			}
+			.small {
+				font-size: inherit;
+			}
+		}
+	}
+
+	.ul-bp-members-grid {
+		display: inline-block;
+	  	width: 100%;
+	  	padding: 0;
+
+	  	li {
+	  		list-style: none;
+	  	}
+	}
+
+	.bp-groups-list,
+	.gears-bp-members-list,
+	.gears-bp-groups-grid,
+	.ul-bp-members-grid{
+		padding: 0;
+		padding-left: 0;
+		margin: 0;
+		margin-left: 0;
+		li {
+			list-style: none;
+			margin: 0;
+		}
+	}
+
+	.gears-bp-groups-grid,
+	.ul-bp-members-grid {
+		img.avatar {
+			width: 100%;
+		}
+	}
+
+	.bp-groups-list,
+	.gears-bp-members-list {
+		li {
+			margin-bottom: 25px;
+		}
+		img {
+			padding: 0;
+			max-width: 20%;
+		}
+	}
+
+	.bx-wrapper {
+		position: relative;
+		.bx-prev,
+		.bx-next {
+			padding: 10px 15px;
+			display: inline-block;
+			background: $primary;
+			position: absolute;
+			color: $light;
+			right: 0;
+			top: 46%;
+		}
+		.bx-prev {
+			top: 48%;
+			left: 0;
+			right: auto;
+		}
+	}
+}
+.gears-carousel-standard{
+	&.bp-members-carousel {
+		li.carousel-item {
+			z-index: 10;
+			border-radius: 50%;
+			overflow: hidden;
+			text-align: center;
+			&:hover {
+				.members-name {
+					-webkit-transform: scale(1);
+					   -moz-transform: scale(1);
+							transform: scale(1);
+				}
+			}
+			.members-name {
+				background: $dark_secondary_icon;
+				color: $light;
+				bottom: 0;
+				width: 100%;
+				height: 100%;
+				border-radius: 50%;
+				line-height: 200px;
+				-webkit-transform: scale(0);
+				   -moz-transform: scale(0);
+						transform: scale(0);
+			}
+		}
+	}
+	&.bp-groups-carousel {
+		.carousel-item.gears-bp-groups-carousel {
+			z-index: 10;
+			overflow: hidden;
+			border-radius: 50%;
+			&:hover {
+				a.group-title{
+					span.groups-name {
+						-webkit-transform: scale(1);
+						   -moz-transform: scale(1);
+								transform: scale(1);
+						}
+				}
+			}
+			a.group-title{
+				span.groups-name {
+					background: $dark_secondary_icon;
+					color: $light;
+					bottom: 0;
+					width: 100%;
+					height: 100%;
+					border-radius: 50%;
+					padding-top: 20px;
+					-webkit-transform: scale(0);
+					   -moz-transform: scale(0);
+							transform: scale(0);
+				}
+			}
+		}
+	}
+}
+.gears-pricing-table {
+	border: none;
+	@include card(2);
+	.gears-pricing-table-btn {
+		.btn {
+			@extend .button;
+			background-image: none;
+		    text-shadow: none;
+		}
+	}
+}
+.vc_row .buddypress {
+	margin-bottom: 35px;
+}

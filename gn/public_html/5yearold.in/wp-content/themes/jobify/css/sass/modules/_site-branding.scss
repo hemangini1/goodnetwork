@@ -1,0 +1,6 @@
+.site-branding {
+	@include bp(lg) {
+		display: table-cell;
+		vertical-align: middle;
+	}
+}
